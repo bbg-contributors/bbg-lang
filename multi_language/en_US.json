@@ -192,5 +192,7 @@
     ],
     "ALERT_SUCCESSFUL_REGISTER": "OK",
     "HINT_USING_PUBLIC_COMMENT_SERVICE": "You cannot set comment settings manually because you are using public comment service",
-    "LINK_ABANDON_PUBLIC_COMMENT_SERVICE": "Click here if you no longer want to use public comment service"
+    "LINK_ABANDON_PUBLIC_COMMENT_SERVICE": "Click here if you no longer want to use public comment service",
+    "CURRENTLY_USING_3RD_PARTY_THEME":"Currently using third party theme: ",
+    "USING_3RD_PARTY_THEME_FROM_LOCAL_FILE_DESCRIPTION":"You are currently using third party theme from local file.<br />We recommend you to install third party theme from theme store due to better support."
 }
