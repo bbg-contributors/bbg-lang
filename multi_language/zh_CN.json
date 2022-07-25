@@ -194,6 +194,5 @@
     "HINT_USING_PUBLIC_COMMENT_SERVICE": "正在使用公共评论服务，所以不能手动设置此项。",
     "LINK_ABANDON_PUBLIC_COMMENT_SERVICE": "如果你不想继续使用公共评论服务了，请点击这里",
     "CURRENTLY_USING_3RD_PARTY_THEME":"正在使用第三方主题：",
-    "USING_3RD_PARTY_THEME_FROM_LOCAL_FILE_DESCRIPTION":"正在使用手动从本地文件安装的第三方主题。<br />如果可能的话建议你从主题商店安装，因为主题商店的主题通常都有更好的支持。",
-    "ARTICLE_LINK": "文章永久链接"
+    "USING_3RD_PARTY_THEME_FROM_LOCAL_FILE_DESCRIPTION":"正在使用手动从本地文件安装的第三方主题。<br />如果可能的话建议你从主题商店安装，因为主题商店的主题通常都有更好的支持。"
 }
