@@ -5,6 +5,10 @@
       "id": "zh_CN"
     },
     {
+      "name": "繁体中文（由OpenCC从简体中文转译）",
+      "id": "zh_TW"
+    },
+    {
       "name": "English",
       "id": "en_US"
     }
