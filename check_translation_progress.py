@@ -1,8 +1,10 @@
 #!/usr/bin/python3
 """
 Usage:
+$ python3 check_translation_progress.py --help
 $ python3 check_translation_progress.py --id zh_CN
-$ python3 check_translation_progress.py --id zh_CN --reverse
+$ python3 check_translation_progress.py --id ja_JP --verbose
+$ python3 check_translation_progress.py --id en_US --reverse
 $ python3 check_translation_progress.py --all
 $ python3 check_translation_progress.py --all --reverse
 """
@@ -23,58 +25,52 @@ def is_valid_query(lang_id):
 
 
 def check_selected(lang_id):
-    print(f"\n现在检查 id 为 {lang_id} 的语言的翻译进度。\n")
+    if args.reverse:
+        print(f"\n现在使用 id 为 {lang_id} 的语言，反向检查 meta.json。\n")
+    else:
+        print(f"\n现在检查 id 为 {lang_id} 的语言的翻译进度。\n")
 
     if is_valid_query(lang_id):
         with open(f"multi_language/{lang_id}.json", 'r') as f:
             lang_current = json.load(f)
 
-        keysTotalNumber = len(lang_meta["需要翻译的键值"])
-
         keysCurrentNumber = 0
 
-        for j in range(keysTotalNumber):
-            if lang_meta["需要翻译的键值"][j] in lang_current:
-                keysCurrentNumber += 1
+        if args.reverse:
+            keysTotalNumber = len(lang_current)
+            for key in lang_current:
+                if key in lang_meta["需要翻译的键值"]:
+                    keysCurrentNumber += 1
+                else:
+                    if args.verbose:
+                        print(f"{key} 不在 meta.json 中。")
+        else:
+            keysTotalNumber = len(lang_meta["需要翻译的键值"])
+            for key in lang_meta["需要翻译的键值"]:
+                if key in lang_current:
+                    if not args.reverse and lang_current[key] == "":
+                        if args.verbose:
+                            print(f"{key} 没有翻译。")
+                    else:
+                        keysCurrentNumber += 1
+                else:
+                    if args.verbose:
+                        print(f"{key} 不在 {lang_id}.json 中。")
 
-        print(f"有效的已翻译键值数：{keysCurrentNumber}")
-        print(f"总共需要翻译的键值数：{keysTotalNumber}\n")
+        if args.verbose and keysCurrentNumber != keysTotalNumber:
+            print()
 
-        print(f"翻译进度百分比：{keysCurrentNumber / keysTotalNumber * 100}%\n")
+        print(f"有效的键值数：{keysCurrentNumber}")
+        print(f"总键值数：{keysTotalNumber}\n")
+
+        print(f"百分比：{keysCurrentNumber / keysTotalNumber * 100}%\n")
 
         return [keysCurrentNumber, keysTotalNumber]
     else:
         return None
 
 
-def check_reverse(lang_id):
-    print(f"\n现在使用 id 为 {lang_id} 的语言，反向检查 meta.json。\n")
-
-    if is_valid_query:
-        with open(f"multi_language/{lang_id}.json", 'r') as f:
-            lang_current = json.load(f)
-
-        keysTotalNumber = len(lang_current)
-
-        keysCurrentNumber = 0
-
-        for key in lang_current:
-            if key in lang_meta["需要翻译的键值"]:
-                keysCurrentNumber += 1
-            else:
-                print(f"{key} 不在 meta.json 中。")
-
-        print(f"有效的需要翻译的键值数：{keysCurrentNumber}")
-        print(f"总共存在的键值数：{keysTotalNumber}\n")
-
-        print(f"键值百分比：{keysCurrentNumber / keysTotalNumber * 100}%\n")
-
-        return [keysCurrentNumber, keysTotalNumber]
-    else:
-        return None
-
-
-parser = argparse.ArgumentParser(description='获取参数')
+parser = argparse.ArgumentParser(description='检查已有语种的翻译进度')
 parser.add_argument('--id',
                     type=str,
                     help='语言id',
@@ -82,6 +78,7 @@ parser.add_argument('--id',
                     required=False)
 parser.add_argument('-a', '--all', action='store_true', help='检查所有语言')
 parser.add_argument('-r', '--reverse', action='store_true', help='反向检查语言')
+parser.add_argument('-v', '--verbose', action='store_true', help='输出详细信息')
 args = parser.parse_args()
 
 with open('meta.json', 'r') as f:
@@ -89,15 +86,9 @@ with open('meta.json', 'r') as f:
 
 if args.all:
     for i in range(len(lang_meta["名称与文件名之间的映射关系"])):
-        if args.reverse:
-            check_reverse(lang_meta["名称与文件名之间的映射关系"][i]["id"])
-        else:
-            check_selected(lang_meta["名称与文件名之间的映射关系"][i]["id"])
+        check_selected(lang_meta["名称与文件名之间的映射关系"][i]["id"])
 else:
     if args.id is None:
         print("请输入语言id。")
     else:
-        if args.reverse:
-            check_reverse(args.id)
-        else:
-            check_selected(args.id)
+        check_selected(args.id)
