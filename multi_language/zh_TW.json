@@ -194,5 +194,6 @@
     "HINT_USING_PUBLIC_COMMENT_SERVICE": "正在使用公共評論服務，所以不能手動設置此項。",
     "LINK_ABANDON_PUBLIC_COMMENT_SERVICE": "如果你不想繼續使用公共評論服務了，請點擊這裏",
     "CURRENTLY_USING_3RD_PARTY_THEME": "正在使用第三方主題：",
-    "USING_3RD_PARTY_THEME_FROM_LOCAL_FILE_DESCRIPTION": "正在使用手動從本地文件安裝的第三方主題。<br />如果可能的話建議你從主題商店安裝，因爲主題商店的主題通常都有更好的支持。"
+    "USING_3RD_PARTY_THEME_FROM_LOCAL_FILE_DESCRIPTION": "正在使用手動從本地文件安裝的第三方主題。<br />如果可能的話建議你從主題商店安裝，因爲主題商店的主題通常都有更好的支持。",
+    "FILENAME": "文件名"
 }

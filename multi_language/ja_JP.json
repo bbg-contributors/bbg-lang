@@ -194,5 +194,6 @@
     "HINT_USING_PUBLIC_COMMENT_SERVICE": "パブリックコメントサービスを利用しているため、手動で設定することはできません。",
     "LINK_ABANDON_PUBLIC_COMMENT_SERVICE": "パブリックコメントサービスを利用したくない場合は、こちらをクリックしてください。",
     "CURRENTLY_USING_3RD_PARTY_THEME": "現在使用しているサードパーティのテーマ：",
-    "USING_3RD_PARTY_THEME_FROM_LOCAL_FILE_DESCRIPTION": "現在、ローカルファイルから手動でインストールしたサードパーティのテーマを使用しています。<br />テーマストアのテーマは通常サポートが充実しているので、可能であればテーマストアからインストールすることをお勧めします。"
+    "USING_3RD_PARTY_THEME_FROM_LOCAL_FILE_DESCRIPTION": "現在、ローカルファイルから手動でインストールしたサードパーティのテーマを使用しています。<br />テーマストアのテーマは通常サポートが充実しているので、可能であればテーマストアからインストールすることをお勧めします。",
+    "FILENAME": "ファイル名"
 }
