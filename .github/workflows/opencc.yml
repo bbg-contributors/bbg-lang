@@ -1,0 +1,35 @@
+name: Convert zh_CN to zh_TW using opencc
+
+on:
+  push:
+    paths:
+      - "opencc_s2t.py"
+      - "multi_language/zh_CN.json"
+      - ".github/workflows/opencc.yml"
+      - "requirements.txt"
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Configure environment
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Convert zh_CN to zh_TW using opencc
+        run: |
+          python opencc_s2t.py
+          git add .
+          git commit -m "opencc auto convert [skip ci]" || echo "No changes to commit"
+          git push
