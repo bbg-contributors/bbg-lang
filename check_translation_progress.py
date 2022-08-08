@@ -59,8 +59,11 @@ def check_selected(lang_id):
                     if args.verbose:
                         print(f"{key} 不在 {lang_id}.json 中。")
 
-        if args.verbose and keysCurrentNumber != keysTotalNumber:
-            print()
+        if args.verbose:
+            if keysCurrentNumber != keysTotalNumber:
+                print()
+            elif not args.reverse and keysTranslatedNumber != keysTotalNumber:
+                print()
 
         print(f"有效的键值数：{keysCurrentNumber}")
         if not args.reverse:
