@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 """
 Usage:
-$ python3 check_translation_progress.py --help
-$ python3 check_translation_progress.py --id zh_CN
-$ python3 check_translation_progress.py --id ja_JP --verbose
-$ python3 check_translation_progress.py --id en_US --reverse
-$ python3 check_translation_progress.py --all
-$ python3 check_translation_progress.py --all --fix --sort
+$ python3 check_translation_progress_next_generation.py --help
+$ python3 check_translation_progress_next_generation.py --id zh_CN
+$ python3 check_translation_progress_next_generation.py --id ja_JP --verbose
+$ python3 check_translation_progress_next_generation.py --id en_US --reverse
+$ python3 check_translation_progress_next_generation.py --all
+$ python3 check_translation_progress_next_generation.py --all --fix --sort
 """
 
 import argparse
@@ -31,8 +31,8 @@ def check_selected(lang_id):
         print(f"\n现在检查 id 为 {lang_id} 的语言的翻译进度。\n")
 
     if is_valid_query(lang_id):
-        with open(f"multi_language/{lang_id}.json", 'r') as f:
-            lang_current = json.load(f)
+        with open(f"multi_language_next_generation/{lang_id}.json", 'r') as f:
+            lang_current = json.load(f)["data"]
 
         keysCurrentNumber = 0
         keysTranslatedNumber = 0
@@ -86,8 +86,8 @@ def fix_selected(lang_id):
     if is_valid_query(lang_id):
         with open('meta.json', 'r') as f:
             lang_meta = json.load(f)
-        with open(f"multi_language/{lang_id}.json", 'r') as f:
-            lang_current = json.load(f)
+        with open(f"multi_language_next_generation/{lang_id}.json", 'r') as f:
+            lang_current = json.load(f)["data"]
 
         if args.reverse:
             for key in lang_current:
@@ -113,7 +113,7 @@ def fix_selected(lang_id):
                     if args.verbose:
                         print(f"{key} 已添加到 {lang_id}.json 中。")
 
-            with open(f"multi_language/{lang_id}.json", 'w') as f:
+            with open(f"multi_language_next_generation/{lang_id}.json", 'w') as f:
                 json.dump(lang_current,
                           f,
                           sort_keys=args.sort,
