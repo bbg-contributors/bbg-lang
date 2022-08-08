@@ -212,7 +212,7 @@
     "ALERT_3RD_THEME_DOWNLOAD_STARTED": "Download started, please wait for a moment. You can close the dialog now, but don't exit the blog settings page.",
     "ALERT_3RD_THEME_INSTALL_FINISHED": "Third party theme has already been installed on your website successfully",
     "VERSION_INFO": "Version Channel Info",
-    "INSTALL_CHANNEL": "Version Channel: ",
-    "INTERNAL_VERSION_ID": "Internal Version ID: ",
+    "INSTALL_CHANNEL": "Version Channel",
+    "INTERNAL_VERSION_ID": "Internal Version ID",
     "AND": "and"
 }
