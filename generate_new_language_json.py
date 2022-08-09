@@ -7,12 +7,8 @@ $ python generate_new_language_json.py --id vw_50
 import argparse
 import json
 
-
 parser = argparse.ArgumentParser(description='获取语言id')
-parser.add_argument('--id',
-                    type=str,
-                    help='语言id',
-                    required=True)
+parser.add_argument('--id', type=str, help='语言id', required=True)
 args = parser.parse_args()
 
 with open('meta.json', 'r') as f:

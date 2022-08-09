@@ -113,7 +113,8 @@ def fix_selected(lang_id):
                     if args.verbose:
                         print(f"{key} 已添加到 {lang_id}.json 中。")
 
-            with open(f"multi_language_next_generation/{lang_id}.json", 'w') as f:
+            with open(f"multi_language_next_generation/{lang_id}.json",
+                      'w') as f:
                 json.dump(lang_current,
                           f,
                           sort_keys=args.sort,
