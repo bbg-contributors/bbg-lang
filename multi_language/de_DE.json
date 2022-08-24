@@ -110,6 +110,7 @@
     "MODIFIEDAT_EDIT_META": "Änderungsdatum (kein Format erforderlich)",
     "TAGS_EDIT_META": "Tags (mehrere Tags durch Leerzeichen trennen)",
     "ARTICLE_IS_TOP": "Top-Artikel",
+    "HIDE_ARTICLE_IN_LIST": "Diesen Artikel aus der Artikelliste ausblenden",
     "SAVE_CONFIGURATION": "Änderungen speichern",
     "CDN_SETTINGS": "Quelleinstellungen entpacken",
     "CDN_SETTINGS_SIMPLE_DESCRIPTION": "Die Unpkg-Quelleinstellung bestimmt, woher die CSS-Ressourcendateien für Front-End-Bibliotheken aufgerufen werden, die von Ihrer Website verwendet werden. Diese Einstellung hat keinen Einfluss darauf, wo JavaScript-Ressourcen aufgerufen werden. <b>Wenn Sie nicht wissen, was das ist Beginnen Sie einfach mit der Liste. Wählen Sie eine zu verwendende Option oder behalten Sie die Standardeinstellung bei.</b>",
