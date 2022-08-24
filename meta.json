@@ -23,6 +23,10 @@
         {
             "name": "Deutsch",
             "id": "de_DE"
+        },
+        {
+            "name": "Français",
+            "id": "fr_FR"
         }
     ],
     "需要翻译的键值": [
