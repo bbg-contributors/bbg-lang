@@ -198,6 +198,25 @@
 		"LINK_ABANDON_PUBLIC_COMMENT_SERVICE": "Если вы больше не хотите использовать службу публичных комментариев, нажмите здесь",
 		"CURRENTLY_USING_3RD_PARTY_THEME": "Используется сторонняя тема:",
 		"USING_3RD_PARTY_THEME_FROM_LOCAL_FILE_DESCRIPTION": "Использование сторонней темы, которая была вручную установлена из локального файла.<br />Рекомендуется по возможности устанавливать из магазина тем, поскольку темы из магазина тем обычно лучше поддерживаются.",
-		"FILENAME": "имя файла"
+		"FILENAME": "имя файла",
+		"GET_FRIEND_BOOK_DATA_FROM_EXTERNAL_LINK": "Получить данные учетной записи друга из внешнего файла JSON",
+		"URL_OF_FRIEND_BOOK_JSON_DATA": "URL файла JSON учетной записи друга (включая http:// или https://)",
+		"ALERT_SUCCESSFUL_INIT": "Сайт блога успешно инициализирован! Далее перейдите на страницу настроек блога.",
+		"DOMAIN_RELATED_FUNCTION_EXAMPLE": "Пример: https://example.com",
+		"PLEASE_INPUT_PAGE_TITLE": "Пожалуйста, введите название страницы",
+		"PLEASE_INPUT_ARTICLE_TITLE": "Пожалуйста, введите название статьи",
+		"PLEASE_INPUT_ARTICLE_ABSTRACT": "Пожалуйста, введите краткое содержание статьи",
+		"PLEASE_INPUT_CREATEDAT": "Введите дату создания",
+		"PLEASE_INPUT_UPDATEDDAT": "Введите дату изменения",
+		"PLEASE_INPUT_TAGS": "Вставьте сюда теги (если есть)",
+		"ARE_YOU_SURE_DELETE_ARTICLE": "Вы уверены, что хотите удалить эту статью? <b>Это действие нельзя отменить</b>",
+		"ARE_YOU_SURE_DELETE_PAGE": "Вы уверены, что хотите удалить эту страницу? <b>Это действие нельзя отменить</b>",
+		"CURRENTLY_USING_LATEST_VERSION_ALREADY": "На данный момент последняя версия!",
+		"ALERT_3RD_THEME_DOWNLOAD_STARTED": "Загрузка началась, пожалуйста, подождите. Вы можете закрыть это диалоговое окно сейчас, но пока не выходите из экрана настроек блога.",
+		"ALERT_3RD_THEME_INSTALL_FINISHED": "Сторонняя тема успешно загружена и установлена   на ваш сайт.",
+		"VERSION_INFO": "Информация о версии",
+		"INSTALL_CHANNEL": "Установить канал",
+		"INTERNAL_VERSION_ID": "Внутренний номер версии",
+		"AND": "И"
 	}
 }
