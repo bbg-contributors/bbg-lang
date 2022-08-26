@@ -13,6 +13,10 @@
             "id": "en_US"
         },
         {
+            "name": "English_UK",
+            "id": "en_UK"
+        },
+        {
             "name": "日本語",
             "id": "ja_JP"
         },
