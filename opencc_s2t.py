@@ -27,7 +27,8 @@ def convert_file(file_path):
 
 
 custom_dict = {
-    # "KEY": "瘋狂星期四",
+    "LANG": "zh_TW",
+    "LANG_NAME": "繁體中文",
     # "KEY_WITH_LIST_VALUE": [
     #     "v我",
     #     "50"
