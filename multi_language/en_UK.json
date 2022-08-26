@@ -37,7 +37,7 @@
     "DELETE_FAVICON": "Delete the current favicon",
     "STARTPAGE_TITLE": "Welcome to BBG",
     "STARTPAGE_DESCRIPTION": [
-        "BBG, also known as Baiyang-lzy's Blog Generator, is a static blog generator based on Electron Technology.",
+        "BBG, also known as Baiyuanneko's Blog Generator, is a static blog generator based on Electron Technology.",
         "You want to manage or create a blog? Just click the button below."
     ],
     "OPEN_EXISTING_SITE": "Open an existing site",

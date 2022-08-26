@@ -37,7 +37,7 @@
     "DELETE_FAVICON": "刪除當前圖標",
     "STARTPAGE_TITLE": "開始使用 BBG",
     "STARTPAGE_DESCRIPTION": [
-        "BBG 是 Baiyang-lzy's Blog Generator 的簡寫，也是一個基於 Electron 技術開發的靜態博客生成器。",
+        "BBG 是 Baiyuanneko's Blog Generator 的簡寫，也是一個基於 Electron 技術開發的靜態博客生成器。",
         "點擊下方的按鈕即可開始管理/創建博客了。"
     ],
     "OPEN_EXISTING_SITE": "打開已有站點",

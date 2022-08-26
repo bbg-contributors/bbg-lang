@@ -37,7 +37,7 @@
     "DELETE_FAVICON": "Supprimer l'icône actuelle",
     "STARTPAGE_TITLE": "Commencer à utiliser BBG",
     "STARTPAGE_DESCRIPTION": [
-        "BBG est l'abréviation de Baiyang-lzy's Blog Generator, et c'est aussi un générateur de blog statique basé sur la technologie Electron.",
+        "BBG est l'abréviation de Baiyuanneko's Blog Generator, et c'est aussi un générateur de blog statique basé sur la technologie Electron.",
         "Cliquez sur le bouton ci-dessous pour commencer à gérer/créer un blog."
     ],
     "OPEN_EXISTING_SITE": "Ouvrir un site existant",

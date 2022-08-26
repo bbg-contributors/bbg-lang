@@ -37,7 +37,7 @@
     "DELETE_FAVICON": "現在のWebアイコンを削除する",
     "STARTPAGE_TITLE": "BBGへようこそ",
     "STARTPAGE_DESCRIPTION": [
-        "BBGは、Baiyang-lzyのブログジェネレーターの略で、Electron技術に基づいて開発された静的ブログジェネレーターです。",
+        "BBGは、Baiyuannekoのブログジェネレーターの略で、Electron技術に基づいて開発された静的ブログジェネレーターです。",
         "下のボタンをクリックして、ブログの管理・作成を開始しましょう。"
     ],
     "OPEN_EXISTING_SITE": "既存のサイトを開く",
