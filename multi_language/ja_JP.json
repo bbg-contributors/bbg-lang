@@ -1,4 +1,6 @@
 {
+    "LANG": "ja_JP",
+    "LANG_NAME": "日本語",
     "EDIT_ARTICLE_META": "記事のメタ情報を編集する",
     "EDIT_ARTICLE_CONTENT": "システムデフォルトエディターを使って記事を編集する",
     "DELETE_ARTICLE": "記事を削除する",

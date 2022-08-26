@@ -34,6 +34,8 @@
         }
     ],
     "需要翻译的键值": [
+        "LANG",
+        "LANG_NAME",
         "EDIT_ARTICLE_META",
         "EDIT_ARTICLE_CONTENT",
         "DELETE_ARTICLE",

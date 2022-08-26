@@ -1,4 +1,6 @@
 {
+    "LANG": "de_DE",
+    "LANG_NAME": "Deutsch",
     "EDIT_ARTICLE_META": "Metainformationen des Artikels bearbeiten",
     "EDIT_ARTICLE_CONTENT": "Verwenden Sie den Standardeditor des Systems, um Artikelinhalte zu bearbeiten",
     "DELETE_ARTICLE": "Artikel löschen",

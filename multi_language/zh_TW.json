@@ -1,4 +1,6 @@
 {
+    "LANG": "zh_TW",
+    "LANG_NAME": "繁體中文",
     "EDIT_ARTICLE_META": "修改文章元信息",
     "EDIT_ARTICLE_CONTENT": "使用系統默認編輯器編輯文章內容",
     "DELETE_ARTICLE": "刪除文章",

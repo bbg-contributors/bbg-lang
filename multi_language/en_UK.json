@@ -1,5 +1,5 @@
 {
-    "LANG": "en_US",
+    "LANG": "en_UK",
     "LANG_NAME": "English",
     "EDIT_ARTICLE_META": "Edit meta information on this article",
     "EDIT_ARTICLE_CONTENT": "Edit the content of this article with the default editor of your system",
@@ -22,7 +22,7 @@
     "BLOG_TITLE": "The title of this blog",
     "BLOG_DESCRIPTION": "The description or sub-title of this blog",
     "BOTTOM_INFORMATION": "The bottom information",
-    "HINT_BTMINFO_MD": "Notice that the format of the bottom information is Markdown. Don't try adding HTML elements to it.",
+    "HINT_BTMINFO_MD": "Do Notice that the format of the bottom information is Markdown. Don't try adding HTML elements to it.",
     "BLOG_NAVBAR_BGCOLOR": "The background color of the blog title bar",
     "BLOG_NAVBAR_TEXTCOLOR": "The text color of the blog title bar",
     "HINT_NAVBAR_COLOR": "You can fill in the blank with an HTML Color Name or HEX color code, e.g, #66ccff or cyan.",
@@ -38,7 +38,7 @@
     "STARTPAGE_TITLE": "Welcome to BBG",
     "STARTPAGE_DESCRIPTION": [
         "BBG, also known as Baiyang-lzy's Blog Generator, is a static blog generator based on Electron Technology.",
-        "Want to manage or create a blog? Just click the button below."
+        "You want to manage or create a blog? Just click the button below."
     ],
     "OPEN_EXISTING_SITE": "Open an existing site",
     "CREATE_NEW_SITE": "Create a new site",
@@ -62,7 +62,7 @@
     ],
     "SELECT_SITE_ROOT_DIRECTORY": "Click here to select the root directory of the site and then start initialization.",
     "CANCEL": "Cancel",
-    "SITE_LANG": "The language of the website",
+    "SITE_LANG": "The language the website uses",
     "SITE_BGIMAGE": "The background image of the website",
     "USE_RANDOM_ACG_PIC_AS_BGIMG": "Use random ACGN Pictures as the background image of the website (if you don't select this, the website's background will be blank)",
     "USE_3RD_THEME": "Use a third-party theme for the website",
@@ -185,7 +185,7 @@
     "INSTALL_THIS_THEME": "Install this theme",
     "BACK_TO_THEME_LIST": "Back to the theme list",
     "ALERT_NOT_SELECT_ANY_ICON": "Favicon won't be changed because you haven't selected any icon file.",
-    "ALERT_NOT_USING_ICON": "You're not using a favicon",
+    "ALERT_NOT_USING_ICON": "You aren't using a favicon",
     "ALERT_SUCCESSFUL_CLEARING": "OK",
     "ALERT_RESET_THEME_OK": "Already reset.",
     "PUBLIC_COMMENT_SERVICE_AGREEMENT": [
@@ -193,12 +193,12 @@
         "Do you want to continue?"
     ],
     "ALERT_SUCCESSFUL_REGISTER": "OK",
-    "HINT_USING_PUBLIC_COMMENT_SERVICE": "You cannot set comment settings manually because you are using the public comment service",
+    "HINT_USING_PUBLIC_COMMENT_SERVICE": "You can't set comment settings manually because you are using the public comment service",
     "LINK_ABANDON_PUBLIC_COMMENT_SERVICE": "Click here if you no longer want to use the public comment service",
     "CURRENTLY_USING_3RD_PARTY_THEME": "Currently using third-party theme: ",
     "USING_3RD_PARTY_THEME_FROM_LOCAL_FILE_DESCRIPTION": "You are currently using a third-party theme from a local file.<br />We recommend you install a third-party theme from the theme store due to better support.",
     "FILENAME": "File name",
-    "GET_FRIEND_BOOK_DATA_FROM_EXTERNAL_LINK": "Get data of friend book from external json file",
+    "GET_FRIEND_BOOK_DATA_FROM_EXTERNAL_LINK": "Get data from friend book from external json file",
     "URL_OF_FRIEND_BOOK_JSON_DATA": "URL of the external json file",
     "ALERT_SUCCESSFUL_INIT": "initialization operated successfully! ",
     "DOMAIN_RELATED_FUNCTION_EXAMPLE": "e.g, https://example.com",
