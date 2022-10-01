@@ -36,6 +36,8 @@
     "需要翻译的键值": [
         "LANG",
         "LANG_NAME",
+        "ARTICLE_ENCRYPT_PASSWORD",
+        "PLEASE_INPUT_PASSWORD",
         "EDIT_ARTICLE_META",
         "EDIT_ARTICLE_CONTENT",
         "DELETE_ARTICLE",

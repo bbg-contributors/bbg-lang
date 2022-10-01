@@ -1,6 +1,8 @@
 {
     "LANG": "zh_CN",
     "LANG_NAME": "简体中文",
+    "ARTICLE_ENCRYPT_PASSWORD": "文章加密密钥",
+    "PLEASE_INPUT_PASSWORD": "在这里填入加密密钥（留空代表不加密）",
     "EDIT_ARTICLE_META": "修改文章元信息",
     "EDIT_ARTICLE_CONTENT": "使用系统默认编辑器编辑文章内容",
     "DELETE_ARTICLE": "删除文章",
