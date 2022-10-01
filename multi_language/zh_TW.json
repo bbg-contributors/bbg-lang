@@ -220,5 +220,9 @@
     "INTERNAL_VERSION_ID": "內部版本號",
     "AND": "和",
     "FORMAT_JSON_ENABLED": "提高博客數據文件（index.json）的可讀性",
-    "FORMAT_JSON_ENABLED_DESCRIPTION": "如果勾選此項，寫入博客數據文件（index.json）時會對 json 結構進行格式化，從而提高可讀性，同時使用 Git 等版本控制工具時可以更好地瞭解每次博客數據文件的變化情況。"
+    "FORMAT_JSON_ENABLED_DESCRIPTION": "如果勾選此項，寫入博客數據文件（index.json）時會對 json 結構進行格式化，從而提高可讀性，同時使用 Git 等版本控制工具時可以更好地瞭解每次博客數據文件的變化情況。",
+    "COPY_TO_REMOTE_TITLE": "通過 SSH 上傳到遠程服務器",
+    "COPY_TO_REMOTE_DESCRIPTION": "此操作會使用操作系統提供的 SCP 命令將本地的站點上傳到遠程服務器。（因爲需要自動輸入，所以還需操作系統中包含 expect 工具）。",
+    "COPY_TO_REMOTE_WITH_PASSWD": "使用密碼驗證並上傳",
+    "COPY_TO_REMOTE_WITH_KEY": "使用密鑰驗證並上傳"
 }
