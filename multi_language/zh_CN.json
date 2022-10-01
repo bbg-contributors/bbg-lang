@@ -216,5 +216,7 @@
     "VERSION_INFO": "版本信息",
     "INSTALL_CHANNEL": "安装通道",
     "INTERNAL_VERSION_ID": "内部版本号",
-    "AND": "和"
+    "AND": "和",
+    "FORMAT_JSON_ENABLED": "提高博客数据文件（index.json）的可读性",
+    "FORMAT_JSON_ENABLED_DESCRIPTION": "如果勾选此项，写入博客数据文件（index.json）时会对 json 结构进行格式化，从而提高可读性，同时使用 Git 等版本控制工具时可以更好地了解每次博客数据文件的变化情况。"
 }

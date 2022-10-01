@@ -229,6 +229,8 @@
         "VERSION_INFO",
         "INSTALL_CHANNEL",
         "INTERNAL_VERSION_ID",
-        "AND"
+        "AND",
+        "FORMAT_JSON_ENABLED",
+        "FORMAT_JSON_ENABLED_DESCRIPTION"
     ]
 }
