@@ -216,5 +216,7 @@
     "VERSION_INFO": "バージョン情報",
     "INSTALL_CHANNEL": "インストールチャンネル",
     "INTERNAL_VERSION_ID": "内部バージョン番号",
-    "AND": "と"
+    "AND": "と",
+    "FORMAT_JSON_ENABLED": "ブログデータファイル（index.json）の可読性を改善",
+    "FORMAT_JSON_ENABLED_DESCRIPTION": "このオプションをチェックすると、ブログデータファイル（index.json）を書き込むときに json 構造がフォーマットされて読みやすくなり、Git などのバージョン管理ツールを使用するときに、ブログデータファイルがどのように変化するのかがわかりやすくになります。"
 }

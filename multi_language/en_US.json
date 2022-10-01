@@ -216,5 +216,7 @@
     "VERSION_INFO": "Version Channel Info",
     "INSTALL_CHANNEL": "Version Channel",
     "INTERNAL_VERSION_ID": "Internal Version ID",
-    "AND": "and"
+    "AND": "and",
+    "FORMAT_JSON_ENABLED": "Improve readability of blog data file (index.json)",
+    "FORMAT_JSON_ENABLED_DESCRIPTION": "If this option is checked, the json structure will be formatted when writing the blog data file (index.json) to improve readability, and when using version control tools such as Git, you can better understand each changes of blog data file."
 }
