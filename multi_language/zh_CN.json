@@ -224,5 +224,9 @@
     "COPY_TO_REMOTE_TITLE": "通过 SSH 上传到远程服务器",
     "COPY_TO_REMOTE_DESCRIPTION": "此操作会使用操作系统提供的 SCP 命令将本地的站点上传到远程服务器。（因为需要自动输入，所以还需操作系统中包含 expect 工具）。",
     "COPY_TO_REMOTE_WITH_PASSWD": "使用密码验证并上传",
-    "COPY_TO_REMOTE_WITH_KEY": "使用密钥验证并上传"
+    "COPY_TO_REMOTE_WITH_KEY": "使用密钥验证并上传",
+    "SET_SEARCH_BUTTON_OUTLINE_INTO_DARK_MODE":"搜索按钮边框颜色设置为暗色",
+    "INCREASE_PAGE_MARGIN":"使版心宽度更窄（提高左右页边距）",
+    "USE_SERIF_FONT":"优先使用衬线字体",
+    "DISABLE_SHADOW_EFFECT_OF_NAV_BAR":"禁用导航栏的阴影效果"
 }
