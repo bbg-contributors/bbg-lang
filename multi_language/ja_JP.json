@@ -1,6 +1,8 @@
 {
     "LANG": "ja_JP",
     "LANG_NAME": "日本語",
+    "ARTICLE_ENCRYPT_PASSWORD": "記事暗号化用パスワード",
+    "PLEASE_INPUT_PASSWORD": "ここに暗号化用パスワードを入力します（暗号化しない場合は空白のままにします）",
     "EDIT_ARTICLE_META": "記事のメタ情報を編集する",
     "EDIT_ARTICLE_CONTENT": "システムデフォルトエディターを使って記事を編集する",
     "DELETE_ARTICLE": "記事を削除する",
@@ -218,5 +220,13 @@
     "INTERNAL_VERSION_ID": "内部バージョン番号",
     "AND": "と",
     "FORMAT_JSON_ENABLED": "ブログデータファイル（index.json）の可読性を改善",
-    "FORMAT_JSON_ENABLED_DESCRIPTION": "このオプションをチェックすると、ブログデータファイル（index.json）を書き込むときに json 構造がフォーマットされて読みやすくなり、Git などのバージョン管理ツールを使用するときに、ブログデータファイルがどのように変化するのかがわかりやすくになります。"
+    "FORMAT_JSON_ENABLED_DESCRIPTION": "このオプションをチェックすると、ブログデータファイル（index.json）を書き込むときにjson構造がフォーマットされて読みやすくなり、Gitなどのバージョン管理ツールを使用するときに、ブログデータファイルがどのように変化するのかがわかりやすくになります。",
+    "COPY_TO_REMOTE_TITLE": "SSHでリモートサーバーにアップロードする",
+    "COPY_TO_REMOTE_DESCRIPTION": "これにより、OSが提供するSCPコマンドを使用して、ローカルサイトをリモートサーバーにアップロードします。（自動入力が必要なため、expectツールをOSに含める必要があります。）",
+    "COPY_TO_REMOTE_WITH_PASSWD": "パスワードで認証してアップロード",
+    "COPY_TO_REMOTE_WITH_KEY": "キーで認証してアップロード",
+    "SET_SEARCH_BUTTON_OUTLINE_INTO_DARK_MODE": "検索ボタンのアウトラインをダークモードに設定",
+    "INCREASE_PAGE_MARGIN": "中央の幅を狭くする（左右の余白を増やす）",
+    "USE_SERIF_FONT": "セリフフォントを優先",
+    "DISABLE_SHADOW_EFFECT_OF_NAV_BAR": "ナビゲーションバーの影効果を無効にする"
 }
