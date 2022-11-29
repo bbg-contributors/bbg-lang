@@ -228,5 +228,9 @@
     "SET_SEARCH_BUTTON_OUTLINE_INTO_DARK_MODE": "Set search button outline to dark mode",
     "INCREASE_PAGE_MARGIN": "Make the center width narrower (increase the left and right margins)",
     "USE_SERIF_FONT": "Prefer serif fonts",
-    "DISABLE_SHADOW_EFFECT_OF_NAV_BAR": "Disable the shadow effect of the navigation bar"
+    "DISABLE_SHADOW_EFFECT_OF_NAV_BAR": "Disable the shadow effect of the navigation bar",
+    "MARKDOWN_RENDERING": "Markdown document rendering and display",
+    "REWRITE_BASEURL": "set base URL to Markdown directory",
+    "ENABLE_IMAGE_VIEWER": "Display the image viewer when the user clicks on the image",
+    "RESIZE_IMAGES": "Render image size based on user's screen size"
 }

@@ -228,5 +228,9 @@
     "SET_SEARCH_BUTTON_OUTLINE_INTO_DARK_MODE": "検索ボタンのアウトラインをダークモードに設定",
     "INCREASE_PAGE_MARGIN": "中央の幅を狭くする（左右の余白を増やす）",
     "USE_SERIF_FONT": "セリフフォントを優先",
-    "DISABLE_SHADOW_EFFECT_OF_NAV_BAR": "ナビゲーションバーの影効果を無効にする"
+    "DISABLE_SHADOW_EFFECT_OF_NAV_BAR": "ナビゲーションバーの影効果を無効にする",
+    "MARKDOWN_RENDERING": "Markdown ドキュメントのレンダリングと表示",
+    "REWRITE_BASEURL": "ベースURLをMarkdownディレクトリに設定する",
+    "ENABLE_IMAGE_VIEWER": "ユーザーが画像をクリックしたときに画像ビューアーを表示する",
+    "RESIZE_IMAGES": "ユーザーの画面サイズに基づいて画像サイズを表示する"
 }
