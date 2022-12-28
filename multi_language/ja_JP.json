@@ -4,7 +4,7 @@
     "ARTICLE_ENCRYPT_PASSWORD": "記事暗号化用パスワード",
     "PLEASE_INPUT_PASSWORD": "ここに暗号化用パスワードを入力します（暗号化しない場合は空白のままにします）",
     "EDIT_ARTICLE_META": "記事のメタ情報を編集する",
-    "EDIT_ARTICLE_CONTENT": "システムデフォルトエディターを使って記事を編集する",
+    "EDIT_AND_PREVIEW_ARTICLE_CONTENT": "記事を編集およびプレビューする",
     "DELETE_ARTICLE": "記事を削除する",
     "HINT_USING_MD_IN_ARTICLES": "ヒント：Markdown形式で記事を書くことができます。",
     "ARTICLE_MANAGEMENT": "記事管理",
@@ -17,7 +17,7 @@
     "HINT_USING_MD_IN_PAGES": "ヒント：Markdown形式でページを書くことができます。",
     "PAGE_VIEWNAME": "ナビゲーションバーでは、ページは次のように表示されます。",
     "EDIT_PAGE_META": "ページ設定",
-    "EDIT_PAGE_CONTENT": "システムデフォルトエディターを使ってページを編集する",
+    "EDIT_AND_PREVIEW_PAGE_CONTENT": "ページを編集およびプレビューする",
     "DELETE_PAGE": "ページを削除する",
     "BLOG_SETTINGS": "ブログ設定",
     "BASIC_INFO_THEME_CONFIG": "基本情報・テーマ設定",
@@ -232,5 +232,14 @@
     "MARKDOWN_RENDERING": "Markdown ドキュメントのレンダリングと表示",
     "REWRITE_BASEURL": "ベースURLをMarkdownディレクトリに設定する",
     "ENABLE_IMAGE_VIEWER": "ユーザーが画像をクリックしたときに画像ビューアーを表示する",
-    "RESIZE_IMAGES": "ユーザーの画面サイズに基づいて画像サイズを表示する"
+    "RESIZE_IMAGES": "ユーザーの画面サイズに基づいて画像サイズを表示する",
+    "MARKDOWN_EDITOR": "Markdown エディター",
+    "SAVE_CHANGES_CTRL_S": "変更内容を保存（Ctrl + S）",
+    "MARKDOWN_EDITOR_USAGE": "利用方法",
+    "SWITCH_TO_SYSTEM_DEFAULT_EDITOR": "システムのデフォルトエディターに切り替える",
+    "CURRENTLY_EDITING": "現在編集中",
+    "MARKDOWN_EDITOR_USAGE_DETAIL": "【Markdownとは】\nMarkdownはシンプルなマークアップ言語で、BBGで作成したブログはデフォルトでブログ記事やページのフォーマットとしてMarkdownを使用しています。\n\n【Markdownエディターの使用について】\nこれは、Markdown*Palettesをベースに開発されたシンプルなMarkdownエディターです。\n左側が編集エリアです。Markdownコードを入力できます。\n右側はプレビューエリアです。作成したMarkdownコードのレンダリング効果をリアルタイムでプレビューできます。",
+    "WARN_UNSAVED_CHANGES": "本当に終了しますか? 保存されていない変更は失われます。",
+    "WARN_UNSAVED_CHANGES_BEFORE_SWITCHING_TO_SYSTEM_DEFAULT_EDITOR": "現在の編集環境にはまだ変更が保存されていません。すぐにシステムの既定のエディターに切り替えますか? \n（すぐに切り替えるとこれらの変更は失われます）",
+    "ALREADY_SAVED": "保存しました！"
 }

@@ -4,7 +4,7 @@
     "ARTICLE_ENCRYPT_PASSWORD": "Article encryption password",
     "PLEASE_INPUT_PASSWORD": "Fill in the encryption password here (leave blank for no encryption)",
     "EDIT_ARTICLE_META": "Edit meta information for this article",
-    "EDIT_ARTICLE_CONTENT": "Edit the content of this article with your system's default editor",
+    "EDIT_AND_PREVIEW_ARTICLE_CONTENT": "Edit and preview article content",
     "DELETE_ARTICLE": "Delete this article",
     "HINT_USING_MD_IN_ARTICLES": "Tip: You can write your article in Markdown format.",
     "ARTICLE_MANAGEMENT": "Article management",
@@ -17,7 +17,7 @@
     "HINT_USING_MD_IN_PAGES": "Tip: You can write your page in Markdown format.",
     "PAGE_VIEWNAME": "In the navigation bar, the page is viewed as: ",
     "EDIT_PAGE_META": "Settings for this page",
-    "EDIT_PAGE_CONTENT": "Edit the content of this page with your system's default editor",
+    "EDIT_AND_PREVIEW_PAGE_CONTENT": "Edit and preview page content",
     "DELETE_PAGE": "Delete this page",
     "BLOG_SETTINGS": "Blog settings",
     "BASIC_INFO_THEME_CONFIG": "Basic information and theme configuration",
@@ -232,5 +232,14 @@
     "MARKDOWN_RENDERING": "Markdown document rendering and display",
     "REWRITE_BASEURL": "set base URL to Markdown directory",
     "ENABLE_IMAGE_VIEWER": "Display the image viewer when the user clicks on the image",
-    "RESIZE_IMAGES": "Render image size based on user's screen size"
+    "RESIZE_IMAGES": "Render image size based on user's screen size",
+    "MARKDOWN_EDITOR": "Markdown editor",
+    "SAVE_CHANGES_CTRL_S": "Save changes (Ctrl + S)",
+    "MARKDOWN_EDITOR_USAGE": "Usage",
+    "SWITCH_TO_SYSTEM_DEFAULT_EDITOR": "Switch to the system default editor",
+    "CURRENTLY_EDITING": "Currently editing",
+    "MARKDOWN_EDITOR_USAGE_DETAIL": "【What is Markdown】\nMarkdown is a simple markup language. Blogs created with BBG use Markdown as the format for blog posts or pages by default. \n\n【Markdown Editor Instructions】\nThis is a simple Markdown editor, developed based on Markdown*Palettes. \nOn the left is the editing area, you can enter Markdown code in the editing area. \nOn the right is the preview area, where you can preview the rendering effect of the Markdown code you wrote in real time.",
+    "WARN_UNSAVED_CHANGES": "Are you sure to exit? Unsaved changes will be lost.",
+    "WARN_UNSAVED_CHANGES_BEFORE_SWITCHING_TO_SYSTEM_DEFAULT_EDITOR": "You still have unsaved changes in the current editing environment, are you sure to switch to the system default editor immediately? \n(These changes will be lost if you switch immediately)",
+    "ALREADY_SAVED": "Saved!"
 }
