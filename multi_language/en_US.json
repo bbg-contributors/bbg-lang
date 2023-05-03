@@ -244,5 +244,6 @@
     "ALREADY_SAVED": "Saved!",
     "UNRELEASED_VERSION": "Unreleased version",
     "AUR_VERSION_INFO": "<p>This version is installed from AUR.</p><p>Thanks to the following people who has contributed to the packaging work of the AUR version of this software.</p><li> <a href='javascript:shell.openExternal(\"https://github.com/Misaka13514\")'>Misaka13514</a> </li> <li><a href='javascript:shell.openExternal(\"https://github.com/woshoxxx\")'>zzjzxq33</a> </li>",
-    "LEARN_ABOUT_AUR_VERSION": "This version of the software is installed from AUR. Click here to learn more."
+    "LEARN_ABOUT_AUR_VERSION": "This version of the software is installed from AUR. Click here to learn more.",
+    "LEARN_ABOUT_HOW_TO_ADD_REF_AND_INFO_HINT_TO_ARTICLE": "Click here to learn about how to add reference and info hints to the article"
 }
