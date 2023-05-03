@@ -46,7 +46,7 @@
     "CREATE_NEW_SITE": "创建一个新站点",
     "BBG_SETTINGS": "BBG 版本设置与反馈",
     "LAST_MANAGED_SITE": "你最近管理过：",
-    "SOFTWARE_VERSION": "软件版本号：",
+    "SOFTWARE_VERSION": "软件版本：",
     "CHECK_UPDATE": "检查更新",
     "UNLICENSED": "此软件的源代码属于公有领域。本软件不含任何担保。应用图标使用 Crypko AI 生成且仅可用作非商业用途。",
     "DISPLAY_CONTRIBUTORS": "查看贡献者名单",
@@ -241,5 +241,8 @@
     "MARKDOWN_EDITOR_USAGE_DETAIL": "【什么是 Markdown】\nMarkdown 是一个简单的标记语言，使用 BBG 创建的博客默认都使用 Markdown 作为博客文章或者页面所使用的格式。\n\n【Markdown 编辑器使用说明】\n这是一个简单的 Markdown 编辑器，基于 Markdown*Palettes 开发。\n左边是编辑区，你可以在编辑区输入 Markdown 代码。\n右边是预览区，你可以在预览区实时预览你所编写的 Markdown 代码经过渲染之后的效果。",
     "WARN_UNSAVED_CHANGES": "确定退出吗？未保存的更改会丢失。",
     "WARN_UNSAVED_CHANGES_BEFORE_SWITCHING_TO_SYSTEM_DEFAULT_EDITOR": "你在当前编辑环境中还有未保存的更改，确定立刻切换到系统默认的编辑器吗？\n（如果立即切换，这些更改将会丢失）",
-    "ALREADY_SAVED": "已保存！"
+    "ALREADY_SAVED": "已保存！",
+    "UNRELEASED_VERSION": "未发布的版本",
+    "AUR_VERSION_INFO": "<p>你正在使用从 AUR 安装的版本。</p><p>感谢以下人员对本软件的 AUR 版本的维护和打包工作：</p><li> <a href='javascript:shell.openExternal(\"https://github.com/Misaka13514\")'>Misaka13514</a> </li> <li><a href='javascript:shell.openExternal(\"https://github.com/woshoxxx\")'>zzjzxq33</a> </li>",
+    "LEARN_ABOUT_AUR_VERSION": "这是一个从 AUR 安装的版本，点击此处了解更多。"
 }
