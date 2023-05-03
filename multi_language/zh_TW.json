@@ -238,7 +238,7 @@
     "MARKDOWN_EDITOR_USAGE": "使用說明",
     "SWITCH_TO_SYSTEM_DEFAULT_EDITOR": "切換到系統默認編輯器",
     "CURRENTLY_EDITING": "正在編輯",
-    "MARKDOWN_EDITOR_USAGE_DETAIL": "【什麼是 Markdown】\nMarkdown 是一個簡單的標記語言，使用 BBG 創建的博客默認都使用 Markdown 作爲博客文章或者頁面所使用的格式。\n\n【Markdown 編輯器使用說明】\n這是一個簡單的 Markdown 編輯器，基於 Markdown*Palettes 開發。\n左邊是編輯區，你可以在編輯區輸入 Markdown 代碼。\n右邊是預覽區，你可以在預覽區實時預覽你所編寫的 Markdown 代碼經過渲染之後的效果。",
+    "MARKDOWN_EDITOR_USAGE_DETAIL": "【什麼是 Markdown】\nMarkdown 是一個簡單的標記語言，使用 BBG 創建的博客默認都使用 Markdown 作爲博客文章或者頁面所使用的格式。\n\n【Markdown 編輯器使用說明】\n這是一個簡單的 Markdown 編輯器。\n左邊是編輯區，你可以在編輯區輸入 Markdown 代碼。\n右邊是預覽區，你可以在預覽區實時預覽你所編寫的 Markdown 代碼經過渲染之後的效果。",
     "WARN_UNSAVED_CHANGES": "確定退出嗎？未保存的更改會丟失。",
     "WARN_UNSAVED_CHANGES_BEFORE_SWITCHING_TO_SYSTEM_DEFAULT_EDITOR": "你在當前編輯環境中還有未保存的更改，確定立刻切換到系統默認的編輯器嗎？\n（如果立即切換，這些更改將會丟失）",
     "ALREADY_SAVED": "已保存！",
