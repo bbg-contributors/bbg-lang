@@ -238,8 +238,11 @@
     "MARKDOWN_EDITOR_USAGE": "Usage",
     "SWITCH_TO_SYSTEM_DEFAULT_EDITOR": "Switch to the system default editor",
     "CURRENTLY_EDITING": "Currently editing",
-    "MARKDOWN_EDITOR_USAGE_DETAIL": "【What is Markdown】\nMarkdown is a simple markup language. Blogs created with BBG use Markdown as the format for blog posts or pages by default. \n\n【Markdown Editor Instructions】\nThis is a simple Markdown editor, developed based on Markdown*Palettes. \nOn the left is the editing area, you can enter Markdown code in the editing area. \nOn the right is the preview area, where you can preview the rendering effect of the Markdown code you wrote in real time.",
+    "MARKDOWN_EDITOR_USAGE_DETAIL": "【What is Markdown】\nMarkdown is a simple markup language. Blogs created with BBG use Markdown as the format for blog posts or pages by default. \n\n【Markdown Editor Instructions】\nThis is a simple Markdown editor. \nOn the left is the editing area, you can enter Markdown code in the editing area. \nOn the right is the preview area, where you can preview the rendering effect of the Markdown code you wrote in real time.",
     "WARN_UNSAVED_CHANGES": "Are you sure to exit? Unsaved changes will be lost.",
     "WARN_UNSAVED_CHANGES_BEFORE_SWITCHING_TO_SYSTEM_DEFAULT_EDITOR": "You still have unsaved changes in the current editing environment, are you sure to switch to the system default editor immediately? \n(These changes will be lost if you switch immediately)",
-    "ALREADY_SAVED": "Saved!"
+    "ALREADY_SAVED": "Saved!",
+    "UNRELEASED_VERSION": "Unreleased version",
+    "AUR_VERSION_INFO": "<p>This version is installed from AUR.</p><p>Thanks to the following people who has contributed to the packaging work of the AUR version of this software.</p><li> <a href='javascript:shell.openExternal(\"https://github.com/Misaka13514\")'>Misaka13514</a> </li> <li><a href='javascript:shell.openExternal(\"https://github.com/woshoxxx\")'>zzjzxq33</a> </li>",
+    "LEARN_ABOUT_AUR_VERSION": "This version of the software is installed from AUR. Click here to learn more."
 }
