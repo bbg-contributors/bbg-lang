@@ -241,5 +241,9 @@
     "MARKDOWN_EDITOR_USAGE_DETAIL": "【Markdownとは】\nMarkdownはシンプルなマークアップ言語で、BBGで作成したブログはデフォルトでブログ記事やページのフォーマットとしてMarkdownを使用しています。\n\n【Markdownエディターの使用について】\nこれはシンプルな Markdown ファイル エディターです。\n左側が編集エリアです。Markdownコードを入力できます。\n右側はプレビューエリアです。作成したMarkdownコードのレンダリング効果をリアルタイムでプレビューできます。",
     "WARN_UNSAVED_CHANGES": "本当に終了しますか? 保存されていない変更は失われます。",
     "WARN_UNSAVED_CHANGES_BEFORE_SWITCHING_TO_SYSTEM_DEFAULT_EDITOR": "現在の編集環境にはまだ変更が保存されていません。すぐにシステムの既定のエディターに切り替えますか? \n（すぐに切り替えるとこれらの変更は失われます）",
-    "ALREADY_SAVED": "保存しました！"
+    "ALREADY_SAVED": "保存しました！",
+    "UNRELEASED_VERSION": "未公開バージョン",
+    "AUR_VERSION_INFO": "<p>このバージョンは AUR からインストールされました。</p><p>このソフトウェアの AUR バージョンのパッケージ化作業に貢献してくれた次の方々に感謝します。</p><li> <a href='javascript:shell.openExternal(\"https://github.com/Misaka13514\")'>Misaka13514</a> </li> <li><a href='javascript:shell.openExternal(\"https://github.com/woshoxxx\")'>zzjzxq33</a> </li>",
+    "LEARN_ABOUT_AUR_VERSION": "このバージョンのソフトウェアは AUR からインストールされました。詳細については、ここをクリックしてください。",
+    "LEARN_ABOUT_HOW_TO_ADD_REF_AND_INFO_HINT_TO_ARTICLE": "記事に参照情報やヒントを追加する方法については、ここをクリックしてください。"
 }
