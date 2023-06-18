@@ -245,5 +245,17 @@
     "UNRELEASED_VERSION": "Unreleased version",
     "AUR_VERSION_INFO": "<p>This version was installed from the AUR.</p><p>The AUR version of this software was contributed by the following maintainers:</p><li> <a href='javascript:shell.openExternal(\"https://github.com/Misaka13514\")'>Misaka13514</a> </li> <li><a href='javascript:shell.openExternal(\"https://github.com/woshoxxx\")'>zzjzxq33</a> </li>",
     "LEARN_ABOUT_AUR_VERSION": "This version of the software was installed from the AUR. Click here to learn more.",
-    "LEARN_ABOUT_HOW_TO_ADD_REF_AND_INFO_HINT_TO_ARTICLE": "Click here to learn about how to add reference and info hints to the article"
+    "LEARN_ABOUT_HOW_TO_ADD_REF_AND_INFO_HINT_TO_ARTICLE": "Click here to learn about how to add reference and info hints to the article",
+    "FILE": "File",
+    "EDIT": "Edit",
+    "UNDO": "Undo",
+    "REDO": "Redo",
+    "CUT": "Cut",
+    "COPY": "Copy",
+    "PASTE": "Paste",
+    "SELECT_ALL": "Select All",
+    "HELP": "Help",
+    "ABOUT": "About",
+    "PROJECT_WEBSITE": "Project Website",
+    "EXIT": "Exit"
 }
