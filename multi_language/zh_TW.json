@@ -245,5 +245,17 @@
     "UNRELEASED_VERSION": "未發佈的版本",
     "AUR_VERSION_INFO": "<p>你正在使用從 AUR 安裝的版本。</p><p>感謝以下人員對本軟件的 AUR 版本的維護和打包工作：</p><li> <a href='javascript:shell.openExternal(\"https://github.com/Misaka13514\")'>Misaka13514</a> </li> <li><a href='javascript:shell.openExternal(\"https://github.com/woshoxxx\")'>zzjzxq33</a> </li>",
     "LEARN_ABOUT_AUR_VERSION": "這是一個從 AUR 安裝的版本，點擊此處瞭解更多。",
-    "LEARN_ABOUT_HOW_TO_ADD_REF_AND_INFO_HINT_TO_ARTICLE": "瞭解如何在文章中添加引用來源和信息框"
+    "LEARN_ABOUT_HOW_TO_ADD_REF_AND_INFO_HINT_TO_ARTICLE": "瞭解如何在文章中添加引用來源和信息框",
+    "FILE": "文件",
+    "EDIT": "編輯",
+    "UNDO": "撤銷",
+    "REDO": "恢復",
+    "CUT": "剪切",
+    "COPY": "複製",
+    "PASTE": "粘貼",
+    "SELECT_ALL": "全選",
+    "HELP": "幫助",
+    "ABOUT": "關於",
+    "PROJECT_WEBSITE": "項目網站",
+    "EXIT": "退出"
 }
