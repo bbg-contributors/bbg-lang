@@ -257,5 +257,7 @@
     "HELP": "帮助",
     "ABOUT": "关于",
     "PROJECT_WEBSITE": "项目网站",
-    "EXIT": "退出"
+    "EXIT": "退出",
+    "EDITOR_WRAPPER_HINT": "正在使用系统默认编辑器编辑",
+    "SWITCH_TO_BUILTIN_EDITOR": "返回到内置编辑器"
 }

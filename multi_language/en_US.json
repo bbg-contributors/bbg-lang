@@ -257,5 +257,7 @@
     "HELP": "Help",
     "ABOUT": "About",
     "PROJECT_WEBSITE": "Project Website",
-    "EXIT": "Exit"
+    "EXIT": "Exit",
+    "EDITOR_WRAPPER_HINT": "Editing with the system default editor",
+    "SWITCH_TO_BUILTIN_EDITOR": "Back to the builtin editor"
 }

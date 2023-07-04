@@ -245,5 +245,17 @@
     "UNRELEASED_VERSION": "未公開バージョン",
     "AUR_VERSION_INFO": "<p>このバージョンは AUR からインストールされました。</p><p>このソフトウェアの AUR バージョンのパッケージ化作業に貢献してくれた次の方々に感謝します。</p><li> <a href='javascript:shell.openExternal(\"https://github.com/Misaka13514\")'>Misaka13514</a> </li> <li><a href='javascript:shell.openExternal(\"https://github.com/woshoxxx\")'>zzjzxq33</a> </li>",
     "LEARN_ABOUT_AUR_VERSION": "このバージョンのソフトウェアは AUR からインストールされました。詳細については、ここをクリックしてください。",
-    "LEARN_ABOUT_HOW_TO_ADD_REF_AND_INFO_HINT_TO_ARTICLE": "記事に参照情報やヒントを追加する方法については、ここをクリックしてください。"
+    "LEARN_ABOUT_HOW_TO_ADD_REF_AND_INFO_HINT_TO_ARTICLE": "記事に参照情報やヒントを追加する方法については、ここをクリックしてください。",
+    "FILE": "ファイル",
+    "EDIT": "エディット",
+    "UNDO": "アンドゥ",
+    "REDO": "リドゥー",
+    "CUT": "カット",
+    "COPY": "コピー",
+    "PASTE": "ペースト",
+    "SELECT_ALL": "全選択",
+    "HELP": "ヘルプ",
+    "ABOUT": "アバウト",
+    "PROJECT_WEBSITE": "プロジェクトウェブサイト",
+    "EXIT": "終了"
 }
