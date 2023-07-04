@@ -257,5 +257,7 @@
     "HELP": "幫助",
     "ABOUT": "關於",
     "PROJECT_WEBSITE": "項目網站",
-    "EXIT": "退出"
+    "EXIT": "退出",
+    "EDITOR_WRAPPER_HINT": "正在使用系統默認編輯器編輯",
+    "SWITCH_TO_BUILTIN_EDITOR": "返回到內置編輯器"
 }
