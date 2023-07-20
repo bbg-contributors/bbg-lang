@@ -259,5 +259,11 @@
     "PROJECT_WEBSITE": "項目網站",
     "EXIT": "退出",
     "EDITOR_WRAPPER_HINT": "正在使用系統默認編輯器編輯",
-    "SWITCH_TO_BUILTIN_EDITOR": "返回到內置編輯器"
+    "SWITCH_TO_BUILTIN_EDITOR": "返回到內置編輯器",
+    "AI_ASSISTED_WRITING_CONFIG": "AI 輔助寫作功能設置",
+    "AI_ASSISTED_WRITING_CONFIG_INFO": "本功能需要調用 OpenAI Chat Completions API。若想使用此功能，需要你自行提供有效的 OpenAI Chat Completions API 憑證信息（至少包括 API Key。請求 URL 與模型名稱非必填，缺省值分別爲 https://api.openai.com/v1/completions 和 text-davinci-003）。開啓 AI 輔助寫作功能後，在編輯器中編輯文章時你可以使用“文章概述”、“文章潤色”與“文章續寫”三個功能。注意：本程序只負責調用相關 API 並接收返回結果，由此產生的任何費用或開銷需要你自行承擔。",
+    "AI_ASSISTED_WRITING_ENABLE": "啓用 AI 輔助寫作功能",
+    "OPENAI_API_KEY": "OpenAI API Key",
+    "OPENAI_API_REQUEST_URL": "OpenAI API 請求 URL（非必填）",
+    "OPENAI_API_MODEL_NAME": "OpenAI API 模型名稱（非必填）"
 }
