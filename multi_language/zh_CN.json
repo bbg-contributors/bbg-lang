@@ -265,5 +265,8 @@
     "AI_ASSISTED_WRITING_ENABLE": "启用 AI 辅助写作功能",
     "OPENAI_API_KEY": "OpenAI API Key",
     "OPENAI_API_REQUEST_URL": "OpenAI API 请求 URL（非必填）",
-    "OPENAI_API_MODEL_NAME": "OpenAI API 模型名称（非必填）"
+    "OPENAI_API_MODEL_NAME": "OpenAI API 模型名称（非必填）",
+    "AI_TEXT_COMPLETION": "AI 续写 (Ctrl + J)",
+    "AI_TEXT_IMPROVE": "AI 润色",
+    "AI_TEXT_SUMMARY": "使用 AI 生成本文摘要"
 }
