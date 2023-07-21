@@ -268,5 +268,12 @@
     "OPENAI_API_MODEL_NAME": "OpenAI API 模型名稱（非必填）",
     "AI_TEXT_COMPLETION": "AI 續寫 (Ctrl + J)",
     "AI_TEXT_IMPROVE": "AI 潤色",
-    "AI_TEXT_SUMMARY": "使用 AI 生成本文摘要"
+    "AI_TEXT_SUMMARY": "使用 AI 生成本文摘要",
+    "TERMINATE_THE_TASK": "中止任務",
+    "TEXT_CONTINUATION_TASK_IS_BEING_OPERATED": "正在進行續寫，此過程可能需要一段時間，請耐心等待",
+    "POLISHING_TEXT": "正在進行文本潤色，此過程可能需要一段時間，請耐心等待",
+    "SUMMARIZING_TEXT": "正在進行文本概述，此過程可能需要一段時間，請耐心等待",
+    "TEXT_CONTINUATION_COMPLETED_INFO": "文本續寫已經完成，以下爲續寫出的文本，是否將其添加到文章中？",
+    "TEXT_POLISHMENT_COMPLETED_INFO": "文本潤色已經完成，以下爲潤色後的文本，是否使用此文本來替換你當前的文本？",
+    "TEXT_SUMMARY_COMPLETED_INFO": "文本概述已經完成，以下是本文章的摘要，是否將其複製到剪貼板中？"
 }
