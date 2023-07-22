@@ -259,5 +259,21 @@
     "PROJECT_WEBSITE": "Project Website",
     "EXIT": "Exit",
     "EDITOR_WRAPPER_HINT": "Editing with the system default editor",
-    "SWITCH_TO_BUILTIN_EDITOR": "Back to the builtin editor"
+    "SWITCH_TO_BUILTIN_EDITOR": "Back to the builtin editor",
+    "AI_ASSISTED_WRITING_CONFIG": "AI assisted writing configuration",
+    "AI_ASSISTED_WRITING_CONFIG_INFO": "This function needs to call OpenAI Chat Completions API. If you want to use this function, you need to provide valid OpenAI Chat Completions API token (At least API Key. Request URL and model name is optional, the default values are https://api.openai.com/v1/completions and text-davinci-003). After enabled AI assisted writing function, you can use \"Text Summary\", \"Text Polishment\" and \"Text Completion\" in the editor. Note: This program only calls the API and receives the response, any cost caused by this are at your own expense.",
+    "AI_ASSISTED_WRITING_ENABLE": "Enable AI assisted writing",
+    "OPENAI_API_KEY": "OpenAI API Key",
+    "OPENAI_API_REQUEST_URL": "OpenAI API Request URL (optional)",
+    "OPENAI_API_MODEL_NAME": "OpenAI API Model Name (optional)",
+    "AI_TEXT_COMPLETION": "AI Completion (Ctrl + J)",
+    "AI_TEXT_IMPROVE": "AI Polishment",
+    "AI_TEXT_SUMMARY": "Generate summary with AI",
+    "TERMINATE_THE_TASK": "Terminate the task",
+    "TEXT_CONTINUATION_TASK_IS_BEING_OPERATED": "Continuing the text, this may take a while, please wait",
+    "POLISHING_TEXT": "Polishing the text, this may take a while, please wait",
+    "SUMMARIZING_TEXT": "Summarizing the text, this may take a while, please wait",
+    "TEXT_CONTINUATION_COMPLETED_INFO": "Text continuation has been completed, here is the text, do you want to append it to the article?",
+    "TEXT_POLISHMENT_COMPLETED_INFO": "Text polishment has been completed, here is the text, do you want to replace your current text with it?",
+    "TEXT_SUMMARY_COMPLETED_INFO": "Text summary has been completed, here is the text, do you want to copy it to the clipboard?"
 }
