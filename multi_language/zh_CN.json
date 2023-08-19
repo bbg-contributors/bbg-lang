@@ -275,5 +275,14 @@
     "SUMMARIZING_TEXT": "正在进行文本概述，此过程可能需要一段时间，请耐心等待",
     "TEXT_CONTINUATION_COMPLETED_INFO": "文本续写已经完成，以下为续写出的文本，是否将其添加到文章中？",
     "TEXT_POLISHMENT_COMPLETED_INFO": "文本润色已经完成，以下为润色后的文本，是否使用此文本来替换你当前的文本？",
-    "TEXT_SUMMARY_COMPLETED_INFO": "文本概述已经完成，以下是本文章的摘要，是否将其复制到剪贴板中？"
+    "TEXT_SUMMARY_COMPLETED_INFO": "文本概述已经完成，以下是本文章的摘要，是否将其复制到剪贴板中？",
+    "HINT_USING_NON_ENGLISH_GNOME_WAYLAND_ENVIRONMENT": "检测到你可能正在 GNOME Wayland 环境下以 Wayland 模式启动本程序，这可能导致你的系统输入法（如 Fcitx 5 或 iBus）无法在本程序中正常运作。你可以选择开启 BBG 内置的输入法，它提供了最基本的中文输入支持（其它语言暂未支持），或者你可以通过传统的 XWayland 方式启动本程序（如果你这样做，当你的显示器设置了非整数倍缩放时，本程序可能会看起来比较模糊）。如果你什么都不做而继续使用，则可能无法正常在本程序中正常使用输入法。",
+    "DONT_SHOW_AGAIN": "不再显示此消息",
+    "ENABLE_BUILTIN_IME": "启用内置输入法（仅在本程序内可用）",
+    "SETTING_OF_BUILTIN_IME": "内置输入法设置",
+    "GNOME_WAYLAND_PLATFORM_HINT": "你正在 GNOME Wayland 环境下以 Wayland 模式启动本程序，点击此处查看使用提示",
+    "MODE": "模式",
+    "BUILTIN_IME_PATTERN_PINYIN": "拼音",
+    "BUILTIN_IME_PATTERN_XIAOHE_DOUBLEPINYIN": "双拼（小鹤双拼）",
+    "BUILTIN_IME_KEYBOARD_SHORTCUT_TO_SWITCH_BETWEEN_CHINESE_AND_ENGLISH": "你可以使用 Shift / Ctrl + Space / Shift + Space 来切换中/英文输入"
 }
