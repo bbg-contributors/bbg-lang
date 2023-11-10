@@ -285,5 +285,6 @@
     "BUILTIN_IME_PATTERN_PINYIN": "拼音",
     "BUILTIN_IME_PATTERN_XIAOHE_DOUBLEPINYIN": "双拼（小鹤双拼）",
     "BUILTIN_IME_KEYBOARD_SHORTCUT_TO_SWITCH_BETWEEN_CHINESE_AND_ENGLISH": "你可以使用 Shift / Ctrl + Space / Shift + Space 来切换中/英文输入",
-    "LINK_COLOR": "链接颜色"
+    "LINK_COLOR": "链接颜色",
+    "TYPE_OF_COMMENT_SYSTEM": "评论系统类型"
 }
