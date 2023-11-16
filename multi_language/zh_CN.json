@@ -286,5 +286,9 @@
     "BUILTIN_IME_PATTERN_XIAOHE_DOUBLEPINYIN": "双拼（小鹤双拼）",
     "BUILTIN_IME_KEYBOARD_SHORTCUT_TO_SWITCH_BETWEEN_CHINESE_AND_ENGLISH": "你可以使用 Shift / Ctrl + Space / Shift + Space 来切换中/英文输入",
     "LINK_COLOR": "链接颜色",
-    "TYPE_OF_COMMENT_SYSTEM": "评论系统类型"
+    "TYPE_OF_COMMENT_SYSTEM": "评论系统类型",
+    "HINT_TEXT_WHEN_USING_VALINE": "你选择了使用 Valine 评论系统，请参照 <a href='javascript:void(0);' onclick='shell.openExternal(\"https://valine.js.org/quickstart.html\")'>此页面</a> 中的步骤获取你的 AppID 和 AppKey 并填入。",
+    "HINT_TEXT_WHEN_USING_VALINE_WITH_PUBLIC_APIKEY": "你选择了使用由 BBG 提供的公共评论服务。公共评论服务由 BBG 免费向您提供，您无需再注册 Leancloud 账号即可为你的站点开启评论功能。它仍是使用 Valine 评论系统，但是你无需自己申请 API Key，并且我们进行了一些处理使得不同站点之间的评论进行了站点隔离。<b>一旦你开始使用此服务，即代表你已知晓以下几点</b>：<br /><li>一旦你开始选择此选项，你的站点评论将会开始存储在我们的 Leancloud 应用的数据库中（不包括你启用该选项之前的数据和取消此选项之后的数据，Leancloud 指的是 leancloud.cn，即 Leancloud 国内版）。</li><li>我们承诺，不会在未经评论者许可的情况下修改某条评论的数据（如评论的具体内容、评论者填写的邮箱等等），但是我们保留删除任意评论的权利，特别是当它们不符合法律法规要求或社会公共道德时。</li><li>我们不对评论数据的可用性、可靠性、完整性、安全性作任何形式的保证。</li><li>我们随时可以在不另行通知的情况下终止相关服务。</li><li>我们随时可以在不另行通知的情况下针对某个站点或某个评论者终止相关服务。</li><li>公共评论服务内置的 API Key 不可以用作任何其它用途。</li>",
+    "CONFIRM_TEXT_WHEN_USING_VALINE_WITH_PUBLIC_APIKEY": "是否确认使用由 BBG 提供的公共评论服务？\n公共评论服务由 BBG 免费向您提供，您无需再注册 Leancloud 账号即可为你的站点开启评论功能。它仍是使用 Valine 评论系统，但是你无需自己申请 API Key，并且我们进行了一些处理使得不同站点之间的评论进行了站点隔离。\n一旦你开始使用此服务，即代表你已知晓以下几点\n一旦你开始选择此选项，你的站点评论将会开始存储在我们的 Leancloud 应用的数据库中（不包括你启用该选项之前的数据和取消此选项之后的数据，Leancloud 指的是 leancloud.cn，即 Leancloud 国内版）。\n我们承诺，不会在未经评论者许可的情况下修改某条评论的数据（如评论的具体内容、评论者填写的邮箱等等），但是我们保留删除任意评论的权利，特别是当它们不符合法律法规要求或社会公共道德时。\n我们不对评论数据的可用性、可靠性、完整性、安全性作任何形式的保证。\n我们随时可以在不另行通知的情况下终止相关服务。\n我们随时可以在不另行通知的情况下针对某个站点或某个评论者终止相关服务。\n公共评论服务内置的 API Key 不可以用作任何其它用途。",
+    "HINT_TEXT_WHEN_USING_DISQUS": "你选择了使用 Disqus 评论系统。请在下方填写 Disqus Shortname。"
 }
