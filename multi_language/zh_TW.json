@@ -290,5 +290,11 @@
     "HINT_TEXT_WHEN_USING_VALINE": "你選擇了使用 Valine 評論系統，請參照 <a href='javascript:void(0);' onclick='shell.openExternal(\"https://valine.js.org/quickstart.html\")'>此頁面</a> 中的步驟獲取你的 AppID 和 AppKey 並填入。",
     "HINT_TEXT_WHEN_USING_VALINE_WITH_PUBLIC_APIKEY": "你選擇了使用由 BBG 提供的公共評論服務。公共評論服務由 BBG 免費向您提供，您無需再註冊 Leancloud 賬號即可爲你的站點開啓評論功能。它仍是使用 Valine 評論系統，但是你無需自己申請 API Key，並且我們進行了一些處理使得不同站點之間的評論進行了站點隔離。<b>一旦你開始使用此服務，即代表你已知曉以下幾點</b>：<br /><li>一旦你開始選擇此選項，你的站點評論將會開始存儲在我們的 Leancloud 應用的數據庫中（不包括你啓用該選項之前的數據和取消此選項之後的數據，Leancloud 指的是 leancloud.cn，即 Leancloud 國內版）。</li><li>我們承諾，不會在未經評論者許可的情況下修改某條評論的數據（如評論的具體內容、評論者填寫的郵箱等等），但是我們保留刪除任意評論的權利，特別是當它們不符合法律法規要求或社會公共道德時。</li><li>我們不對評論數據的可用性、可靠性、完整性、安全性作任何形式的保證。</li><li>我們隨時可以在不另行通知的情況下終止相關服務。</li><li>我們隨時可以在不另行通知的情況下針對某個站點或某個評論者終止相關服務。</li><li>公共評論服務內置的 API Key 不可以用作任何其它用途。</li>",
     "CONFIRM_TEXT_WHEN_USING_VALINE_WITH_PUBLIC_APIKEY": "是否確認使用由 BBG 提供的公共評論服務？\n公共評論服務由 BBG 免費向您提供，您無需再註冊 Leancloud 賬號即可爲你的站點開啓評論功能。它仍是使用 Valine 評論系統，但是你無需自己申請 API Key，並且我們進行了一些處理使得不同站點之間的評論進行了站點隔離。\n一旦你開始使用此服務，即代表你已知曉以下幾點\n一旦你開始選擇此選項，你的站點評論將會開始存儲在我們的 Leancloud 應用的數據庫中（不包括你啓用該選項之前的數據和取消此選項之後的數據，Leancloud 指的是 leancloud.cn，即 Leancloud 國內版）。\n我們承諾，不會在未經評論者許可的情況下修改某條評論的數據（如評論的具體內容、評論者填寫的郵箱等等），但是我們保留刪除任意評論的權利，特別是當它們不符合法律法規要求或社會公共道德時。\n我們不對評論數據的可用性、可靠性、完整性、安全性作任何形式的保證。\n我們隨時可以在不另行通知的情況下終止相關服務。\n我們隨時可以在不另行通知的情況下針對某個站點或某個評論者終止相關服務。\n公共評論服務內置的 API Key 不可以用作任何其它用途。",
-    "HINT_TEXT_WHEN_USING_DISQUS": "你選擇了使用 Disqus 評論系統。請在下方填寫 Disqus Shortname。"
+    "HINT_TEXT_WHEN_USING_DISQUS": "你選擇了使用 Disqus 評論系統。請在下方填寫 Disqus Shortname。",
+    "ENCRYPT_ARTICLE": "爲文章添加密碼",
+    "DECRYPT_ARTICLE": "取消對文章的加密",
+    "INPUT_A_PASSWORD": "輸入密碼",
+    "WRONG_PASSWORD": "密碼錯誤。請重試。",
+    "PASSWORD_REQUIRED_TO_EDIT_CONTENT_OF_ARTICLE": "此文章已被加密。你必須輸入密碼才能繼續編輯。如果該文章不需要被加密，請回到文章列表進行取消加密操作。",
+    "START_EDITING": "開始編輯"
 }
