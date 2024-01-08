@@ -297,5 +297,8 @@
     "INPUT_A_PASSWORD": "输入密码",
     "WRONG_PASSWORD": "密码错误。请重试。",
     "PASSWORD_REQUIRED_TO_EDIT_CONTENT_OF_ARTICLE": "此文章已被加密。你必须输入密码才能继续编辑。如果该文章不需要被加密，请回到文章列表进行取消加密操作。",
-    "START_EDITING": "开始编辑"
+    "START_EDITING": "开始编辑",
+    "CUSTOM_CONFIGURATION": "自定义配置",
+    "CUSTOM_CONFIG_DESCRIPTION": "部分第三方主题可能需要自定义配置来完成某些功能。如果你使用官方主题，或你所使用的主题没有说明需要额外配置，则无需改动这一项。",
+    "EDIT_CUSTOM_CONFIGURATION": "编辑自定义配置"
 }
