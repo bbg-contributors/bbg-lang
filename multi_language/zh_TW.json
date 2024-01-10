@@ -297,8 +297,5 @@
     "INPUT_A_PASSWORD": "輸入密碼",
     "WRONG_PASSWORD": "密碼錯誤。請重試。",
     "PASSWORD_REQUIRED_TO_EDIT_CONTENT_OF_ARTICLE": "此文章已被加密。你必須輸入密碼才能繼續編輯。如果該文章不需要被加密，請回到文章列表進行取消加密操作。",
-    "START_EDITING": "開始編輯",
-    "CUSTOM_CONFIGURATION": "自定義配置",
-    "CUSTOM_CONFIG_DESCRIPTION": "部分第三方主題可能需要自定義配置來完成某些功能。如果你使用官方主題，或你所使用的主題沒有說明需要額外配置，則無需改動這一項。",
-    "EDIT_CUSTOM_CONFIGURATION": "編輯自定義配置"
+    "START_EDITING": "開始編輯"
 }
