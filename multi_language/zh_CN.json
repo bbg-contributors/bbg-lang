@@ -48,7 +48,7 @@
     "LAST_MANAGED_SITE": "你最近管理过：",
     "SOFTWARE_VERSION": "软件版本：",
     "CHECK_UPDATE": "检查更新",
-    "UNLICENSED": "此软件的源代码属于公有领域。本软件不含任何担保。应用图标使用 Crypko AI 生成且仅可用作非商业用途。",
+    "UNLICENSED": "此软件的源代码属于公有领域。本软件不含任何担保。",
     "DISPLAY_CONTRIBUTORS": "查看贡献者名单",
     "JOIN_OUR_GROUP": "加入我们的群组",
     "QQ_GROUP_NUMBER": "QQ 群：983538695（点击即可加群）",
@@ -126,8 +126,6 @@
     "CDN_SETTINGS_ZHIMG": "知乎 Unpkg 源(https://unpkg.zhimg.com)",
     "CDN_SETTINGS_CHICDN": "chicdn (https://unpkg.chicdn.cn) (由某人友情提供)",
     "CDN_SETTINGS_MANUAL_SET": "您的Unpkg 源地址(需要带'https://'，结尾不含斜杠'/')",
-    "ABOUT_IMAGE_COPYRIGHT": "关于应用图标的版权归属说明",
-    "ABOUT_IMAGE_COPYRIGHT_DESCRIPTION": "应用图标使用 Crypko AI 生成，仅可用作非商业用途。",
     "USE_3RD_THEME_FROM_FILE_V2": "手动从本地文件安装主题（*.bbgtheme2）",
     "APPLICATION_STYLE_SETTING": "应用程序风格设置",
     "LET_ARTICLE_GO_UP": "上移一格",
@@ -297,5 +295,8 @@
     "INPUT_A_PASSWORD": "输入密码",
     "WRONG_PASSWORD": "密码错误。请重试。",
     "PASSWORD_REQUIRED_TO_EDIT_CONTENT_OF_ARTICLE": "此文章已被加密。你必须输入密码才能继续编辑。如果该文章不需要被加密，请回到文章列表进行取消加密操作。",
-    "START_EDITING": "开始编辑"
+    "START_EDITING": "开始编辑",
+    "APPLICATION_SETTINGS": "应用设置",
+    "RECENT_OPEN": "最近打开",
+    "NONE": "无"
 }
