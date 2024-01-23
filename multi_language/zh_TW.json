@@ -48,7 +48,7 @@
     "LAST_MANAGED_SITE": "你最近管理過：",
     "SOFTWARE_VERSION": "軟件版本：",
     "CHECK_UPDATE": "檢查更新",
-    "UNLICENSED": "此軟件的源代碼屬於公有領域。本軟件不含任何擔保。應用圖標使用 Crypko AI 生成且僅可用作非商業用途。",
+    "UNLICENSED": "此軟件的源代碼屬於公有領域。本軟件不含任何擔保。",
     "DISPLAY_CONTRIBUTORS": "查看貢獻者名單",
     "JOIN_OUR_GROUP": "加入我們的羣組",
     "QQ_GROUP_NUMBER": "QQ 羣：983538695（點擊即可加羣）",
@@ -126,8 +126,6 @@
     "CDN_SETTINGS_ZHIMG": "知乎 Unpkg 源(https://unpkg.zhimg.com)",
     "CDN_SETTINGS_CHICDN": "chicdn (https://unpkg.chicdn.cn) (由某人友情提供)",
     "CDN_SETTINGS_MANUAL_SET": "您的Unpkg 源地址(需要帶'https://'，結尾不含斜槓'/')",
-    "ABOUT_IMAGE_COPYRIGHT": "關於應用圖標的版權歸屬說明",
-    "ABOUT_IMAGE_COPYRIGHT_DESCRIPTION": "應用圖標使用 Crypko AI 生成，僅可用作非商業用途。",
     "USE_3RD_THEME_FROM_FILE_V2": "手動從本地文件安裝主題（*.bbgtheme2）",
     "APPLICATION_STYLE_SETTING": "應用程序風格設置",
     "LET_ARTICLE_GO_UP": "上移一格",
@@ -297,5 +295,8 @@
     "INPUT_A_PASSWORD": "輸入密碼",
     "WRONG_PASSWORD": "密碼錯誤。請重試。",
     "PASSWORD_REQUIRED_TO_EDIT_CONTENT_OF_ARTICLE": "此文章已被加密。你必須輸入密碼才能繼續編輯。如果該文章不需要被加密，請回到文章列表進行取消加密操作。",
-    "START_EDITING": "開始編輯"
+    "START_EDITING": "開始編輯",
+    "APPLICATION_SETTINGS": "應用設置",
+    "RECENT_OPEN": "最近打開",
+    "NONE": "無"
 }
