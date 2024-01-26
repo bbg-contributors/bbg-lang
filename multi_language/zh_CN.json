@@ -298,5 +298,18 @@
     "START_EDITING": "开始编辑",
     "APPLICATION_SETTINGS": "应用设置",
     "RECENT_OPEN": "最近打开",
-    "NONE": "无"
+    "NONE": "无",
+    "LIVE2D_WIDGET_SETTINGS": "Live2D Widget 设置",
+    "ENABLE_LIVE2d_WIDGET": "启用 Live2D Widget",
+    "WIDGET_PATH": "Widget 路径（Live2D 路径）",
+    "TIPS_PATH": "Tips 路径",
+    "API_PATH": "API 路径",
+    "FUNCTIONS_SWITCH": "功能开关",
+    "HITOKOTO": "一言",
+    "ASTEROIDS": "Asteroids",
+    "SWITCH_MODEL": "模型切换",
+    "SWITCH_TEXTURE": "材质切换",
+    "PHOTO": "照相",
+    "INFO": "信息",
+    "ALLOW_QUIT": "允许退出"
 }
