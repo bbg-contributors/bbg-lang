@@ -282,7 +282,7 @@
     "MODE": "模式",
     "BUILTIN_IME_PATTERN_PINYIN": "拼音",
     "BUILTIN_IME_PATTERN_XIAOHE_DOUBLEPINYIN": "双拼（小鹤双拼）",
-    "BUILTIN_IME_KEYBOARD_SHORTCUT_TO_SWITCH_BETWEEN_CHINESE_AND_ENGLISH": "你可以使用 Shift / Ctrl + Space / Shift + Space 来切换中/英文输入",
+    "BUILTIN_IME_KEYBOARD_SHORTCUT_TO_SWITCH_BETWEEN_CHINESE_AND_ENGLISH": "关于中文输入的使用说明：可以使用 Shift 或 Ctrl + Space 或 Shift + Space 来切换中/英文输入",
     "LINK_COLOR": "链接颜色",
     "TYPE_OF_COMMENT_SYSTEM": "评论系统类型",
     "HINT_TEXT_WHEN_USING_VALINE": "你选择了使用 Valine 评论系统，请参照 <a href='javascript:void(0);' onclick='shell.openExternal(\"https://valine.js.org/quickstart.html\")'>此页面</a> 中的步骤获取你的 AppID 和 AppKey 并填入。",
@@ -311,5 +311,9 @@
     "SWITCH_TEXTURE": "材质切换",
     "PHOTO": "照相",
     "INFO": "信息",
-    "ALLOW_QUIT": "允许退出"
+    "ALLOW_QUIT": "允许退出",
+    "AUTO_CHOOSE": "自动选择",
+    "ENABLE": "启用",
+    "DISABLE": "禁用",
+    "HINT_OF_AUTO_CHOOSE_OPTION_IN_BUILTIN_IME": "目前仅提供了中文的拼音和双拼输入支持，如果在“是否启动内置输入法”中选择了自动选择，那么仅当用户正在 Wayland 环境下且 Locale 字符串以 zh 开头时会启动内置输入法。<br />如果在“模式”中选择了自动选择，那么当用户的 Locale 字符串以 zh 开头时默认为拼音输入，其它时候默认为无输入法。"
 }
