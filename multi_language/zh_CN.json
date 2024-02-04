@@ -316,5 +316,6 @@
     "ENABLE": "启用",
     "DISABLE": "禁用",
     "HINT_OF_AUTO_CHOOSE_OPTION_IN_BUILTIN_IME": "目前仅提供了中文的拼音和双拼输入支持，如果在“是否启动内置输入法”中选择了自动选择，那么仅当用户正在 Wayland 环境下且 Locale 字符串以 zh 开头时会启动内置输入法。<br />如果在“模式”中选择了自动选择，那么当用户的 Locale 字符串以 zh 开头时默认为拼音输入，其它时候默认为无输入法。",
-    "HINT_OF_HIDE_ARTICLE_OPTION": "只是字面意思。从技术上，文章仍然可以被查找到和访问。如果需要保护文章内容，请考虑使用文章加密按钮对文章内容进行加密。"
+    "HINT_OF_HIDE_ARTICLE_OPTION": "只是字面意思。从技术上，文章仍然可以被查找到和访问。如果需要保护文章内容，请考虑使用文章加密按钮对文章内容进行加密。",
+    "CLICK_HERE_TO_EXPAND_ADVANCED_OPTIONS": "点击此处展开高级选项"
 }
