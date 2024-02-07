@@ -318,5 +318,12 @@
     "HINT_OF_AUTO_CHOOSE_OPTION_IN_BUILTIN_IME": "目前僅提供了中文的拼音和雙拼輸入支持，如果在“是否啓動內置輸入法”中選擇了自動選擇，那麼僅當用戶正在 Wayland 環境下且 Locale 字符串以 zh 開頭時會啓動內置輸入法。<br />如果在“模式”中選擇了自動選擇，那麼當用戶的 Locale 字符串以 zh 開頭時默認爲拼音輸入，其它時候默認爲無輸入法。",
     "HINT_OF_HIDE_ARTICLE_OPTION": "只是字面意思。從技術上，文章仍然可以被查找到和訪問。如果需要保護文章內容，請考慮使用文章加密按鈕對文章內容進行加密。",
     "CLICK_HERE_TO_EXPAND_ADVANCED_OPTIONS": "點擊此處展開高級選項",
-    "AI_RELATED_FUNCTIONS": "AI 相關功能"
+    "AI_RELATED_FUNCTIONS": "AI 相關功能",
+    "API_TYPE": "API 類型",
+    "OPENAI_API": "OpenAI API",
+    "BAIDU_QIANFAN": "百度千帆大模型平臺",
+    "API_REQUEST_URL": "API 請求 URL",
+    "API_KEY": "API 密鑰",
+    "API_SECRET_KEY": "API Secret Key",
+    "DEFAULT_MODEL_TYPE": "默認模型類型"
 }
