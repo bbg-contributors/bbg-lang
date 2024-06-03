@@ -316,5 +316,10 @@
     "ENABLE": "Enable",
     "DISABLE": "Disable",
     "HINT_OF_AUTO_CHOOSE_OPTION_IN_BUILTIN_IME": "Currently, only Pinyin and Double Pinyin input support for Chinese is provided. If 'Enable Built-in Input Method' is set to 'Auto Choose,' the built-in input method will only be activated when the user is in a Wayland environment and the Locale string starts with 'zh'.<br />If 'Mode' is set to 'Auto Choose,' it defaults to Pinyin input when the user's Locale string starts with 'zh' and defaults to no input method otherwise.",
-    "HINT_OF_HIDE_ARTICLE_OPTION": "Just the literal meaning. Technically, the article can still be found and accessed. If you need to protect the content, consider using the article encryption button to encrypt the article content."
+    "HINT_OF_HIDE_ARTICLE_OPTION": "Just the literal meaning. Technically, the article can still be found and accessed. If you need to protect the content, consider using the article encryption button to encrypt the article content.",
+    "SETTING_OF_CUSTOM_UI": "Customize BBG UI",
+    "ENABLE_CUSTOM_UI": "Enable custom UI for BBG",
+    "BACKGROUND_IMAGE_PATH": "Background image path",
+    "PRIMARY_COLOR": "Primary color",
+    "HINT_OF_SETTING_OF_CUSTOM_UI_V1": "Notice that this page sets the UI of BBG itself, not the blog that created by BBG."
 }
