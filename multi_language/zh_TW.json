@@ -325,5 +325,10 @@
     "API_REQUEST_URL": "API 請求 URL",
     "API_KEY": "API 密鑰",
     "API_SECRET_KEY": "API Secret Key",
-    "DEFAULT_MODEL_TYPE": "默認模型類型"
+    "DEFAULT_MODEL_TYPE": "默認模型類型",
+    "SETTING_OF_CUSTOM_UI": "自定義 BBG 界面",
+    "ENABLE_CUSTOM_UI": "啓用自定義界面功能",
+    "BACKGROUND_IMAGE_PATH": "背景圖像路徑",
+    "PRIMARY_COLOR": "主題色",
+    "HINT_OF_SETTING_OF_CUSTOM_UI_V1": "注意本頁面設置的是 BBG 程序本身的界面，而不是博客的。"
 }
