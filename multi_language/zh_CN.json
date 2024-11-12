@@ -332,5 +332,8 @@
     "PRIMARY_COLOR": "主题色",
     "HINT_OF_SETTING_OF_CUSTOM_UI_V1": "注意本页面设置的是 BBG 程序本身的界面，而不是博客的。",
     "ALERT_OPEN_SITE": "建议只打开自己信任的站点。打开不信任的站点有可能会允许对方在你的计算机上执行任意代码。",
-    "I_UNDERSTAND": "我已理解"
+    "I_UNDERSTAND": "我已理解",
+    "SITE_THEME": "站点主题",
+    "SITE_THEME_HINT": "使用站点主题可能会覆盖你进行的部分主题设置。如果你发现某些设置不生效，请将站点主题设置为默认主题再试试看。",
+    "DEFAULT_THEME": "无 (默认主题)"
 }
