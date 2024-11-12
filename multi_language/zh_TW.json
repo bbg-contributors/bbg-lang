@@ -330,5 +330,7 @@
     "ENABLE_CUSTOM_UI": "啓用自定義界面功能",
     "BACKGROUND_IMAGE_PATH": "背景圖像路徑",
     "PRIMARY_COLOR": "主題色",
-    "HINT_OF_SETTING_OF_CUSTOM_UI_V1": "注意本頁面設置的是 BBG 程序本身的界面，而不是博客的。"
+    "HINT_OF_SETTING_OF_CUSTOM_UI_V1": "注意本頁面設置的是 BBG 程序本身的界面，而不是博客的。",
+    "ALERT_OPEN_SITE": "建議只打開自己信任的站點。打開不信任的站點有可能會允許對方在你的計算機上執行任意代碼。",
+    "I_UNDERSTAND": "我已理解"
 }
