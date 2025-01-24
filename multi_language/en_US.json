@@ -89,7 +89,6 @@
     "EXIT_CURRENT_SITE": "Exit the current site",
     "PREVIEW_YOUR_SITE": "Preview your site",
     "PREVIEW_SITE_CONTENT": [
-        "Now you have entered preview mode. While previewing, you cannot manage your site.",
         "You can preview your site at",
         "."
     ],

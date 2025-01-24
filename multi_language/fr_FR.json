@@ -87,7 +87,6 @@
     "EXIT_CURRENT_SITE": "Quitter le site actuel",
     "PREVIEW_YOUR_SITE": "Aperçu de votre site",
     "PREVIEW_SITE_CONTENT": [
-        "Vous êtes actuellement en mode aperçu. Vous ne pouvez pas effectuer l'administration du site et d'autres opérations pendant que le site est en cours d'aperçu.",
         "Tu peux être là",
         "Afficher un aperçu de votre site."
     ],

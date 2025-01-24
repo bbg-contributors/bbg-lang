@@ -89,7 +89,6 @@
     "EXIT_CURRENT_SITE": "退出当前站点",
     "PREVIEW_YOUR_SITE": "预览你的站点",
     "PREVIEW_SITE_CONTENT": [
-        "目前你已进入预览模式。在预览站点时，你不能进行站点管理等操作。",
         "你可以在",
         "预览你的站点。"
     ],
