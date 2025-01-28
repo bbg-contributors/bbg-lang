@@ -334,5 +334,7 @@
     "I_UNDERSTAND": "我已理解",
     "SITE_THEME": "站点主题",
     "SITE_THEME_HINT": "使用站点主题可能会覆盖你进行的部分主题设置。如果你发现某些设置不生效，请将站点主题设置为默认主题再试试看。",
-    "DEFAULT_THEME": "无 (默认主题)"
+    "DEFAULT_THEME": "无 (默认主题)",
+    "DEVELOPING_VERSION": "开发中版本",
+    "DEVELOPING_VERSION_HINT": "你正在使用开发中的版本，可能不稳定！建议不要用于实际环境，并及时备份数据。"
 }

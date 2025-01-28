@@ -320,5 +320,6 @@
     "ENABLE_CUSTOM_UI": "Enable custom UI for BBG",
     "BACKGROUND_IMAGE_PATH": "Background image path",
     "PRIMARY_COLOR": "Primary color",
-    "HINT_OF_SETTING_OF_CUSTOM_UI_V1": "Notice that this page sets the UI of BBG itself, not the blog that created by BBG."
+    "HINT_OF_SETTING_OF_CUSTOM_UI_V1": "Notice that this page sets the UI of BBG itself, not the blog that created by BBG.",
+    "DEVELOPING_VERSION": "Development version"
 }
