@@ -339,5 +339,14 @@
     "DEVELOPING_VERSION_HINT": "你正在使用开发中的版本，可能不稳定！建议不要用于实际环境，并及时备份数据。",
     "CURRENTLY_NONE": "目前没有。",
     "BROWSE": "浏览...",
-    "CLEAR": "清除"
+    "CLEAR": "清除",
+    "EXTERNAL_LINK_NAME": "外部链接名称",
+    "EXTERNAL_LINK_URL": "外部链接 URL",
+    "PLEASE_INPUT_EXTERNAL_LINK_NAME": "请输入外部链接名称",
+    "PLEASE_INPUT_EXTERNAL_LINK_URL": "请输入外部链接 URL",
+    "ADD_EXTERNAL_LINK": "添加外部链接",
+    "DELETE_EXTERNAL_LINK": "删除此外部链接",
+    "MANAGE_EXTERNAL_LINKS": "管理菜单中的外部链接",
+    "PLEASE_INPUT_EXTERNAL_LINK_NAME_AND_URL": "请输入外部链接名称和 URL"
+
 }
