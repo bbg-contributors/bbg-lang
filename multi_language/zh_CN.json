@@ -347,6 +347,12 @@
     "ADD_EXTERNAL_LINK": "添加外部链接",
     "DELETE_EXTERNAL_LINK": "删除此外部链接",
     "MANAGE_EXTERNAL_LINKS": "管理菜单中的外部链接",
-    "PLEASE_INPUT_EXTERNAL_LINK_NAME_AND_URL": "请输入外部链接名称和 URL"
-
+    "PLEASE_INPUT_EXTERNAL_LINK_NAME_AND_URL": "请输入外部链接名称和 URL",
+    "INSERT_BTN": "插入",
+    "INSERT_PARTIAL_ENCRYPTED_CONTENT": "插入部分加密片段",
+    "DECRYPT_PARTIAL_ENCRYPTED_CONTENT": "解密部分加密片段",
+    "ENCRYPT_CONTENT": "要加密的原始内容",
+    "PLEASE_COPY_PARTIAL_ENCRYPTION": "请将打算解密的部分（包括partial_encrypted标签）复制到下面：",
+    "DECRYPT_RESULT": "解密结果",
+    "PLEASE_INPUT_CONTENT": "请输入内容"
 }
