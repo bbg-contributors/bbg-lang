@@ -280,7 +280,7 @@
     "EDITOR_WRAPPER_HINT": "Editing with the system default editor",
     "SWITCH_TO_BUILTIN_EDITOR": "Back to the builtin editor",
     "AI_ASSISTED_WRITING_CONFIG": "AI assisted writing configuration",
-    "AI_ASSISTED_WRITING_CONFIG_INFO": "This function needs to call OpenAI Chat Completions API. If you want to use this function, you need to provide valid OpenAI Chat Completions API token (At least API Key. Request URL and model name is optional, the default values are https://api.openai.com/v1/completions and text-davinci-003). After enabled AI assisted writing function, you can use \"Text Summary\", \"Text Polishment\" and \"Text Completion\" in the editor. Note: This program only calls the API and receives the response, any cost caused by this are at your own expense.",
+    "AI_ASSISTED_WRITING_CONFIG_INFO": "This feature uses OpenAI APIs. You can configure either the Chat Completions API or the Responses API here. At minimum, provide an API key; request URL and model are optional and will fall back to the official OpenAI defaults. Once enabled, text completion, polishing, and summary in the Markdown editor will all use this configuration. Note: this program only sends requests and displays results, and any API cost is your responsibility.",
     "AI_ASSISTED_WRITING_ENABLE": "Enable AI assisted writing",
     "OPENAI_API_KEY": "OpenAI API Key",
     "OPENAI_API_REQUEST_URL": "OpenAI API Request URL (optional)",
