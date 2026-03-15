@@ -242,5 +242,9 @@
     "UNRELEASED_VERSION": "Unreleased version",
     "AUR_VERSION_INFO": "<p>This version was installed from the AUR.</p><p>The AUR version of this software was contributed by the following maintainers:</p><li> <a href='javascript:shell.openExternal(\"https://github.com/Misaka13514\")'>Misaka13514</a> </li> <li><a href='javascript:shell.openExternal(\"https://github.com/woshoxxx\")'>zzjzxq33</a> </li>",
     "LEARN_ABOUT_AUR_VERSION": "This version of the software was installed from the AUR. Click here to learn more.",
-    "LEARN_ABOUT_HOW_TO_ADD_REF_AND_INFO_HINT_TO_ARTICLE": "Click here to learn about how to add reference and info hints to the article"
+    "LEARN_ABOUT_HOW_TO_ADD_REF_AND_INFO_HINT_TO_ARTICLE": "Click here to learn about how to add reference and info hints to the article",
+    "EDITOR_WRAPPER_HINT": "Editing with the system default editor",
+    "SWITCH_TO_BUILTIN_EDITOR": "Back to the builtin editor",
+    "EXITED_EXTERNAL_EDITOR": "External editor closed",
+    "EXTERNAL_EDITOR_SYNC_HINT": "After finishing in the external editor, you must click the button below and make sure the external editor has already been closed. For security reasons, BBG will not close the external editor for you, and this step is required to keep RSS and other global state in sync."
 }

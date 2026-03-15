@@ -61,6 +61,10 @@
         "Bitte stellen Sie sicher, dass das Blog-Root-Verzeichnis leer ist, da es sonst zu Dateikonflikten kommen kann."
     ],
     "SELECT_SITE_ROOT_DIRECTORY": "Wählen Sie das Stammverzeichnis der Blog-Site und beginnen Sie mit dem Aufbau.",
+    "EDITOR_WRAPPER_HINT": "Editing with the system default editor",
+    "SWITCH_TO_BUILTIN_EDITOR": "Back to the builtin editor",
+    "EXITED_EXTERNAL_EDITOR": "External editor closed",
+    "EXTERNAL_EDITOR_SYNC_HINT": "After finishing in the external editor, you must click the button below and make sure the external editor has already been closed. For security reasons, BBG will not close the external editor for you, and this step is required to keep RSS and other global state in sync.",
     "CANCEL": "Abbrechen",
     "SITE_LANG": "Site-Sprache",
     "SITE_BGIMAGE": "Website-Hintergrundbild",
