@@ -26,7 +26,6 @@
     "SELECTED_TAG_COUNT": "已选 %s 个标签",
     "SELECTED_TAGS": "已选标签",
     "SEARCH_TAGS": "搜索标签",
-    "SELECT_ALL": "全选",
     "TAG_SELECTOR_EMPTY": "没有匹配的标签。",
     "RESET_FILTERS": "重置筛选条件",
     "ARTICLE_FILTER_RESULT_SUMMARY": "当前符合条件的文章数：",
